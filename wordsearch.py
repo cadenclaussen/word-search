@@ -15,12 +15,10 @@ board = []
 # words = ["math", "addition", "subtraction", "multiplication", "division", "negitive", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorazation", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "doubel", "triple", "single", "quadruple"]
 
 # science
-# words = ["chemist", "science", "experement", "mixture", "plant", "bird", "flight", "stem", "steam", "recation", "molecule", "adom", "neculer", "power", "mass", "light", "sound", "water", "waves, "tension", "refraction", "defraction"]
-
-# words = ["cat", "dog"]
+# words = ["chemist", "science", "experement", "mixture", "plant", "bird", "flight", "stem", "steam", "recation", "molecule", "adom", "neculer", "power", "mass", "light", "sound", "water", "waves, "tension", "refraction", "defraction", "garden"]
 
 # sel
-# words = ["cat", "dog"]
+# words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
 
 # swi
 # words = ["cat", "dog"]
@@ -29,10 +27,10 @@ board = []
 # words = ["cat", "dog"]
 
 # head
-#words = ["cumunity", "forts", "mansion", "teachers", "colaberation", "leaders", "helpers", "leadership", "campus", "grationsness", "spirt", "kind", "thankfull", "nueva", "care", "idea", "exclusion", "humor", "wisdom", "ilab", "sel", "swi"]
+#words = ["cumunity", "forts", "mansion", "teachers", "colaberation", "leaders", "helpers", "leadership", "campus", "grationsness", "spirt", "kind", "thankfull", "nueva", "care", "idea", "exclusion", "humor", "wisdom", "ilab", "sel", "swi", "maverics"]
 
 # laraine
-# words = ["cat", "dog"]
+# words = ["kindergarden", "gingerbreadman", "investagation", "magnifiengglass", "detective", "klawn", "choice", "mysteryreader", "circletime", "devenchi", "monalisa", "postoffice", "sandbox", "garden", "teacher", "joeyarea", "", "", "", "", "", ""]
 
 
 directions = ["right", "left", "up", "down", "up right", "up left", "down right", "down left"]
