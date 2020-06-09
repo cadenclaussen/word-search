@@ -5,33 +5,22 @@ boardSize = 30
 board = []
 
 
-#words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights", "phoenixes" ]
-# words = [ "math", "addition", "subtraction", "multiplication", "division", "negative", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ]
-# words = [ "science", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stem", "steam", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction" ]
-# words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
-# test
-#words = ["cat", "dog"]
-# humanities
-#words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotypes", "nativeamericans", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
-# math
-# words = ["math", "addition", "subtraction", "multiplication", "division", "negitive", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorazation", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "doubel", "triple", "single", "quadruple"]
-# science
-# words = ["chemist", "science", "experement", "mixture", "plant", "bird", "flight", "stem", "steam", "recation", "molecule", "adom", "neculer", "power", "mass", "light", "sound", "water", "waves, "tension", "refraction", "defraction", "garden"]
-# sel
-words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
-# swi
-# words = ["noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "sufix", "compoundword", "swi", "prefix", "root", "greek", "latin", "middleinglish", "oldinglish", "final", "meadel", "inital", "vowel"]
-# words = ["exersize", "running", "harder", "healthy", "diet", "food", "jumpropes", "sports", "football", "basketball", "socer", "hokey", "climbing", "skiing", "swiming", "mucels", "bones", "body", "pingpong", "tinnes"]
-# words = [ "nueva", "community", "forts", "mansion", "teachers", "collaboration", "leadership", "campus", "gracious", "spirit", "kind", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "elab", "sel", "swi", "quest", "stemfair", "steam", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn" ]
-# words = ["kindergarden", "gingerbreadman", "investagation", "magnifiengglass", "detective", "klawn", "choice", "mysteryreader", "circletime", "devenchi", "monalisa", "postoffice", "sandbox", "garden", "teacher", "joeyarea", "classroom", "snacktime", "morningmeeting", "scedwal", "readingtime", "clues", "curiosity"]
+words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "greatdepression", "segregation", "slavery", "civilrights", "phoenixes", "rainbowsharks", "greencard" ]
+# words = [ "math", "addition", "subtraction", "multiplication", "division", "negative", "kenken", "riddles", "wordproblems", "mathcounts", "moens", "divisor", "setpuzzles", "equations", "decimals", "mixednumbers", "improperfraction", "powers", "squareroots", "factors", "multiples", "prime", "algebra", "distributive", "commutative", "associative", "exponents", "negatives", "fractions", "numerator", "denominator", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ]
+# words = [ "science", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stemfair", "steamday", "data", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction", "solder", "arduino", "distance", "rate", "time" ]
+# words = [ "sel", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ]
+# words = [ "swi", "noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "suffix", "compoundword", "prefix", "root", "greek", "latin", "middleenglish", "oldenglish", "final", "medial", "initial", "vowel", "script", "grapheme", "phoneme", "syllable" ]
+# words = [ "exercise", "running", "pushharder", "healthy", "diet", "food", "jumprope", "sports", "football", "basketball", "soccer", "hockey", "climbing", "skiing", "swimming", "biking", "muscles", "bones", "body", "pingpong", "tennis", "persistence", "dodgeball", "thunderball", "ctf", "nutrition", "fiber", "lowsugar", "calories" ]
+# words = [ "nueva", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ]
+# words = [ "scratch", "code", "integer", "string", "float", "if", "for", "while", "true", "false", "variable", "list", "listoflists", "array", "datastructure", "function", "parameters", "indentation", "python", "javascript", "arduino", "concatenate", "algorithm", "logic", "loops", "break", "continue", "pixel", "sprite", "input", "output" ]
+# words = [ "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ]
 
 
-directions = ["right", "left", "up", "down", "up right", "up left", "down right", "down left"]
+directions = [ "right", "left", "up", "down", "up right", "up left", "down right", "down left" ]
 
 
 def main():
     initilizeBoard()
-    printBoard()
     insertWords()
     replaceDot()
     printBoard()
@@ -52,9 +41,9 @@ def printBoard():
             if (column == 0):
                 print("    ", end="")
             if (board[row][column] == '.'):
-                print(" ", end="   ")
+                print(" ", end="  ")
             else:
-                print(board[row][column], end="   ") 
+                print(board[row][column], end="    ")
         print()
         print()
     print()
@@ -87,15 +76,12 @@ def isValid(word, row, column, direction):
     for ch in word:
 
         if row >= boardSize or row < 0:
-            print("Invalid: ", word, row, column, direction)
             return False
         if column >= boardSize or column < 0:
-            print("Invalid: ", word, row, column, direction)
             return False
 
         if board[row][column] != ".":
             if board[row][column] != ch:
-                print("Invalid: ", word, row, column, direction)
                 return False
 
         updateDirectionList = updateDirection(row, column, direction)
@@ -114,7 +100,7 @@ def insertWord(word, row, column, direction):
 
 
 def replaceDot():
-    letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+    letters = [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" ]
     for row in range(boardSize):
         for column in range(boardSize):
             letterPut = random.choice(letters)
