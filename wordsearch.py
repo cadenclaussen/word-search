@@ -39,10 +39,6 @@ def printHeader(title):
     print("# ", title.upper())
     print()
     print("```")
-    print()
-    print()
-    print()
-    print(title.upper())
 
 
 def printFooter():

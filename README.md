@@ -6,69 +6,65 @@
 ```
 
 
+    q  b  v  a  f  z  c  n  q  u  m  f  a  h  f  y  i  r  k  a  r  t  i  f  a  c  t  j  j  v  
 
-HUMANITIES
+    o  p  e  e  k  v  f  d  m  a  s  j  j  d  a  l  u  o  d  h  y  x  y  v  m  t  b  i  m  h  
 
+    k  q  v  s  s  x  m  z  v  g  a  e  l  r  l  c  m  t  x  d  g  v  p  j  s  h  v  v  w  l  
 
-    g  x  j  g  m  g  e  y  g  c  k  u  x  s  p  l  a  c  d  v  c  x  v  v  w  o  x  q  o  l  
+    e  x  a  b  c  e  o  r  e  c  a  r  b  a  s  v  a  s  g  g  q  q  w  b  y  k  f  d  h  b  
 
-    r  k  f  r  k  i  q  h  e  f  f  p  l  a  t  a  w  z  h  l  b  a  i  r  f  m  l  l  e  a  
+    y  s  f  n  x  i  y  b  h  u  n  r  j  c  c  h  g  e  m  j  o  u  c  h  q  n  d  w  d  t  
 
-    q  z  t  m  a  c  g  s  v  g  d  w  p  m  t  o  l  v  v  u  n  b  p  g  f  b  m  h  r  r  
+    e  v  d  i  g  m  v  f  m  l  d  h  e  n  s  t  k  c  l  b  h  u  r  u  g  a  d  m  h  j  
 
-    b  n  f  x  n  d  i  r  q  r  l  s  f  a  j  f  t  f  x  i  t  z  g  a  x  n  u  n  u  f  
+    u  z  c  n  a  e  u  i  r  t  x  s  d  e  a  p  s  n  s  m  q  b  f  m  v  c  a  q  n  h  
 
-    s  i  c  i  o  z  o  v  a  b  b  f  g  n  y  h  x  r  w  s  r  x  d  j  r  x  a  o  d  z  
+    o  a  g  q  b  g  l  q  l  y  m  c  y  e  m  d  t  a  s  l  f  o  p  a  m  i  h  g  d  w  
 
-    n  u  b  t  m  m  v  e  i  t  d  o  q  t  m  w  h  u  f  c  m  y  o  k  f  v  y  i  o  i  
+    n  p  c  q  g  z  e  i  w  i  y  b  b  r  a  p  e  t  c  g  e  b  n  n  p  r  c  o  t  k  
 
-    a  o  s  i  a  n  c  v  l  l  i  p  u  h  h  u  m  a  n  i  t  i  e  s  t  m  k  t  w  w  
+    e  h  s  r  r  i  d  n  s  m  z  f  z  g  n  w  s  k  g  k  b  m  i  s  u  e  q  l  s  l  
 
-    m  y  j  w  d  i  g  l  t  v  r  o  t  a  t  e  n  o  i  t  a  r  e  n  e  g  o  a  t  m  
+    x  o  u  s  u  h  u  p  e  l  i  a  d  g  t  x  e  t  z  c  s  f  w  r  q  m  m  d  g  v  
 
-    u  i  e  c  g  a  m  x  z  c  k  i  n  t  c  s  l  e  m  c  q  s  r  n  f  k  l  r  i  v  
+    m  e  j  k  s  s  x  x  g  r  a  g  t  m  h  m  n  v  e  i  q  h  n  f  i  a  e  r  z  u  
 
-    h  g  r  e  e  n  c  a  r  d  a  f  g  r  k  a  p  y  o  r  e  c  a  r  b  m  s  g  z  k  
+    a  n  a  n  o  h  d  q  u  p  a  n  r  i  a  q  i  s  f  r  g  j  n  i  m  e  z  u  t  q  
 
-    r  e  p  y  t  o  e  r  e  t  s  f  c  h  q  m  z  o  e  n  g  d  c  r  s  c  l  i  p  j  
+    v  i  v  o  h  l  o  n  e  h  x  t  d  a  o  y  h  k  h  m  e  h  s  m  z  v  c  s  d  o  
 
-    p  h  o  e  n  i  x  e  s  d  u  z  i  d  t  u  e  c  i  s  t  t  a  b  d  n  x  m  i  r  
+    c  x  j  i  z  k  f  j  m  m  t  t  i  t  t  n  c  e  p  o  g  o  a  r  h  i  p  h  c  l  
 
-    n  n  f  q  b  r  h  c  t  i  n  b  x  t  p  s  x  h  h  e  b  c  l  a  d  v  q  m  t  l  
+    i  e  w  s  p  m  f  s  v  f  y  t  p  o  k  i  s  z  z  q  w  n  t  e  r  t  x  d  l  a  
 
-    q  b  d  n  s  o  x  d  s  s  s  a  t  h  r  j  c  s  e  r  u  t  l  u  c  j  t  i  i  h  
+    v  s  l  r  y  a  e  n  b  h  o  g  w  u  n  w  o  x  v  d  v  w  z  y  i  a  m  k  t  h  
 
-    b  g  w  o  n  r  n  k  l  l  k  n  l  d  v  a  m  o  u  u  m  r  v  l  h  o  q  a  h  u  
+    i  t  v  t  p  s  o  g  p  p  u  f  x  c  x  q  a  n  b  c  h  y  h  n  p  n  i  a  y  d  
 
-    a  d  n  i  o  b  g  n  g  a  b  y  f  s  n  g  i  s  c  w  d  e  n  s  b  r  n  j  c  v  
+    l  l  n  o  h  m  n  i  u  t  c  z  e  n  o  i  s  s  e  r  p  e  d  t  a  e  r  g  o  n  
 
-    v  j  a  s  i  g  p  j  o  v  u  h  w  i  i  y  g  h  o  u  q  j  x  x  x  e  e  q  i  t  
+    r  p  o  v  a  z  q  f  f  n  d  n  c  k  n  d  c  j  y  r  e  v  a  l  s  n  e  k  u  j  
 
-    u  f  t  s  t  q  m  q  q  e  k  r  v  x  h  l  s  k  u  t  z  u  w  i  s  j  f  u  k  v  
+    i  i  i  d  l  g  u  h  r  i  a  a  m  e  x  u  a  i  u  t  e  k  o  z  o  l  t  j  s  t  
 
-    z  i  i  e  a  k  i  w  q  r  n  b  r  i  k  u  e  w  h  a  v  h  j  p  c  c  c  w  n  d  
+    g  y  t  p  s  i  w  u  c  i  f  p  a  w  l  y  e  e  v  b  k  o  v  i  l  g  y  j  k  l  
 
-    s  c  v  r  z  f  e  d  x  y  b  e  i  q  r  q  j  g  v  e  i  t  e  j  d  a  k  d  z  v  
+    h  j  a  v  o  s  p  m  l  y  t  d  a  t  j  w  a  k  x  s  s  y  t  i  a  k  m  p  u  c  
 
-    a  c  e  p  i  d  l  i  y  m  n  r  w  d  d  e  z  n  n  m  f  v  v  x  o  h  n  m  y  d  
+    t  z  r  g  d  f  p  a  e  b  j  h  u  z  p  j  r  j  y  m  n  a  s  r  r  s  z  l  y  c  
 
-    m  h  a  e  l  f  y  f  j  t  o  c  l  t  x  c  p  w  a  a  c  l  c  h  a  a  h  n  w  h  
+    s  e  g  g  l  q  c  n  c  g  k  r  z  h  f  i  z  y  o  s  g  i  o  l  w  r  b  h  m  c  
 
-    f  d  m  d  i  g  j  n  i  t  p  o  n  z  o  d  c  n  m  v  e  o  l  u  l  r  r  a  l  i  
+    g  c  i  z  d  x  x  i  t  d  e  i  k  o  k  y  d  w  x  e  s  u  f  j  h  o  x  j  q  i  
 
-    k  u  e  t  v  v  k  f  s  h  g  f  h  d  d  z  i  i  q  u  n  o  a  s  f  w  m  c  d  c  
+    a  p  m  f  k  e  z  t  i  s  y  q  c  e  l  p  f  c  r  l  l  y  b  g  o  n  t  e  a  y  
 
-    z  w  r  a  i  t  a  e  a  z  k  j  c  r  l  w  a  k  l  m  n  t  i  q  q  s  o  h  y  c  
+    c  n  m  d  p  s  u  i  d  r  z  p  h  i  h  u  z  g  a  o  p  q  l  j  d  m  n  m  v  a  
 
-    u  y  i  e  c  r  c  n  n  o  i  t  a  g  e  r  g  e  s  e  f  s  p  k  q  b  q  n  k  v  
+    e  i  i  s  s  p  y  e  m  b  i  x  x  d  d  l  e  n  n  f  c  u  w  y  a  b  z  u  c  h  
 
-    j  n  c  r  a  n  l  q  z  y  v  p  z  r  f  y  y  t  l  n  i  s  d  t  e  d  v  g  h  n  
-
-    h  m  a  g  a  r  a  i  n  b  o  w  s  h  a  r  k  s  y  l  t  w  f  k  m  b  n  z  p  v  
-
-    b  k  n  c  c  k  f  x  b  q  r  l  n  x  t  i  w  t  l  g  g  a  u  s  k  x  j  i  o  x  
-
-    h  g  q  s  z  c  t  u  k  d  w  a  p  a  x  l  w  e  d  b  p  y  j  y  c  x  c  p  r  c  
+    w  t  p  d  x  n  d  s  v  l  y  t  y  r  j  s  d  s  k  r  a  h  s  w  o  b  n  i  a  r  
 
 
     humanities              sam                     samantha                damon               
@@ -88,69 +84,65 @@ HUMANITIES
 ```
 
 
+    a  z  e  u  e  t  l  r  i  o  n  v  e  e  b  r  h  v  g  o  s  e  l  z  z  u  p  t  e  s  
 
-MATH
+    d  l  m  r  u  z  p  u  s  x  u  c  j  n  o  i  t  i  d  d  a  x  b  c  s  i  c  s  t  i  
 
+    a  o  b  k  d  x  q  i  e  a  m  s  p  n  y  g  s  p  k  j  j  t  y  k  c  t  s  h  e  p  
 
-    a  s  q  u  a  r  e  r  o  o  t  s  u  q  p  z  k  d  p  w  t  f  a  c  t  o  r  s  p  g  
+    u  d  u  w  l  h  u  x  l  z  e  z  q  o  n  m  t  i  u  k  m  a  t  h  c  o  u  n  t  s  
 
-    e  x  t  u  w  m  d  q  q  n  u  m  b  e  r  s  o  w  b  n  w  l  g  y  k  a  w  p  u  f  
+    g  o  w  b  g  o  a  j  d  g  r  y  d  u  r  o  x  r  n  x  a  s  f  b  u  t  v  s  o  t  
 
-    l  f  d  g  s  e  l  z  z  u  p  t  e  s  s  e  l  b  u  o  d  t  i  z  p  v  i  q  v  a  
+    z  x  i  c  l  l  d  p  d  k  a  h  q  i  a  r  i  e  i  g  y  l  c  m  c  t  n  p  v  c  
 
-    g  n  y  u  k  e  d  s  n  g  s  u  y  b  h  e  v  k  j  i  z  k  u  e  t  h  m  i  j  s  
+    d  q  f  w  s  e  r  w  i  x  t  r  m  p  v  r  r  t  g  p  l  b  l  k  s  e  e  q  s  l  
 
-    n  o  l  b  s  b  z  i  k  u  z  t  u  m  l  j  n  t  f  s  f  e  y  m  y  o  p  a  l  s  
+    y  m  a  j  x  p  u  g  r  v  o  e  v  m  k  i  e  i  c  m  l  e  m  e  o  r  m  r  s  y  
 
-    i  i  k  c  t  v  q  g  i  f  c  m  n  p  r  d  r  s  s  i  l  l  t  i  z  f  r  x  e  o  
+    n  l  v  j  a  s  p  m  j  y  r  y  f  o  s  k  s  r  g  a  g  e  v  m  a  p  y  u  h  p  
 
-    s  t  u  a  h  n  f  k  k  v  j  e  u  u  s  y  o  k  q  v  a  p  i  r  x  n  o  w  x  c  
+    n  r  i  l  g  y  l  y  c  j  b  z  r  q  w  k  t  o  o  z  r  i  p  t  w  q  t  u  x  k  
 
-    s  a  x  n  b  q  e  g  n  m  n  r  z  p  o  b  w  s  z  i  d  i  l  p  u  o  p  o  z  i  
+    u  f  s  m  u  s  e  k  k  n  e  g  a  t  i  v  e  m  r  o  t  f  i  y  h  z  z  e  n  y  
 
-    q  z  z  p  e  q  y  k  l  n  d  w  d  t  r  c  y  r  l  d  z  r  a  s  v  i  e  r  k  a  
+    z  c  k  y  e  t  h  w  e  m  i  i  c  a  m  y  i  m  k  a  t  o  r  a  l  g  e  b  r  a  
 
-    m  i  d  d  e  z  m  v  n  a  l  s  m  a  g  l  h  o  j  r  h  t  l  r  r  t  r  d  l  t  
+    d  y  k  x  h  e  e  c  s  z  l  q  t  i  o  i  l  v  g  q  n  s  n  e  k  c  c  j  z  a  
 
-    r  r  s  i  m  y  w  k  u  e  e  w  w  z  i  m  o  t  w  t  e  j  g  e  p  c  f  p  u  i  
+    q  e  g  k  f  m  l  h  x  d  g  j  i  n  u  o  x  e  k  e  n  k  e  n  p  u  v  k  a  d  
 
-    h  o  k  s  d  u  j  q  x  c  k  g  j  m  n  u  j  c  a  n  w  f  e  b  c  a  r  r  g  v  
+    l  b  e  n  f  a  g  q  h  l  l  a  o  l  m  y  n  e  b  c  w  y  a  l  t  o  p  d  d  l  
 
-    b  t  e  t  j  a  l  y  b  p  y  r  e  v  t  l  z  a  u  m  g  n  b  m  w  r  a  o  y  e  
+    b  n  t  b  v  t  g  l  p  r  r  i  n  c  h  w  q  h  d  o  y  h  r  x  d  r  r  o  c  s  
 
-    d  c  v  r  p  w  y  t  b  o  n  o  b  b  e  t  b  f  b  f  a  o  r  u  f  t  c  b  z  i  
+    e  q  u  a  t  i  o  n  s  i  t  g  s  c  e  w  p  d  v  n  c  o  u  c  r  e  n  p  r  q  
 
-    r  a  i  i  c  q  g  d  i  g  e  s  k  m  j  i  q  e  d  l  u  i  a  n  p  b  t  l  x  a  
+    o  z  u  a  k  c  l  o  m  c  s  k  k  o  v  o  r  e  d  d  u  i  r  j  b  o  v  p  m  i  
 
-    g  f  t  b  s  z  c  b  d  p  g  i  t  b  y  p  j  m  e  s  v  t  s  d  v  u  i  e  x  g  
+    u  k  w  j  e  k  u  u  a  t  n  e  h  m  i  r  i  c  i  p  k  m  p  d  i  g  i  t  s  i  
 
-    m  e  a  u  u  e  k  o  i  o  l  v  w  s  q  l  q  i  n  e  n  i  k  e  q  s  o  m  d  g  
+    m  c  m  z  n  u  b  r  n  j  s  q  g  m  t  d  m  i  s  z  d  d  b  s  a  i  e  b  r  r  
 
-    m  m  t  t  e  r  m  a  t  h  r  i  l  c  i  e  c  r  o  v  u  d  f  x  y  v  n  s  i  n  
+    h  n  j  n  r  m  t  e  r  r  m  g  h  u  a  p  e  m  t  p  t  t  i  e  m  i  r  p  o  o  
 
-    y  i  u  i  x  y  s  m  t  u  z  d  c  y  i  s  u  p  m  i  m  d  b  i  e  n  s  e  f  e  
+    n  u  g  i  t  b  n  p  l  w  h  r  t  t  i  r  f  a  r  f  x  v  n  s  r  h  r  c  t  t  
 
-    h  r  m  v  p  u  e  e  e  a  m  e  e  a  o  v  p  f  i  t  e  a  w  m  v  p  n  n  c  g  
+    m  m  t  v  u  o  a  o  f  h  k  b  a  a  c  o  a  l  i  h  i  b  l  y  b  s  g  i  c  a  
 
-    b  p  m  e  o  q  l  f  l  v  e  r  v  i  t  i  g  x  n  a  r  d  i  g  i  t  s  w  g  r  
+    n  b  u  s  p  i  u  w  y  d  o  d  m  t  o  b  c  s  b  d  r  c  l  u  z  v  a  w  a  n  
 
-    i  n  o  e  n  c  f  o  k  d  i  y  m  m  k  i  q  x  a  g  a  k  e  n  l  i  w  f  m  a  
+    b  e  h  x  z  a  v  e  y  u  y  k  h  i  s  l  t  c  u  z  t  b  f  a  e  t  j  a  f  i  
 
-    i  r  c  q  e  c  m  u  e  e  d  t  d  i  e  h  o  l  t  e  t  q  q  m  c  q  r  m  p  p  
+    s  r  e  f  f  z  q  r  v  d  z  d  u  v  s  e  o  n  t  s  j  q  v  n  x  m  h  f  u  m  
 
-    d  q  h  y  n  n  k  h  w  z  n  i  a  e  s  q  c  n  o  n  o  z  c  n  b  n  l  b  a  s  
+    r  s  a  p  m  o  u  s  c  d  o  l  m  e  a  m  r  v  i  f  p  a  t  t  e  r  n  s  s  o  
 
-    o  f  t  s  t  u  p  k  i  u  v  h  r  g  c  h  w  b  r  m  r  l  z  r  a  b  b  t  r  g  
+    k  m  u  l  t  i  p  l  i  c  a  t  i  o  n  s  s  u  v  i  e  m  d  e  j  a  q  k  p  n  
 
-    c  h  m  m  s  e  q  k  v  j  w  v  b  b  e  i  y  f  i  t  y  d  c  g  m  u  t  e  u  j  
+    n  o  i  t  a  z  i  r  o  t  c  a  f  e  m  i  r  p  e  z  u  i  r  u  a  h  q  g  x  e  
 
-    d  o  p  e  r  a  t  i  o  n  i  j  e  g  s  n  m  m  d  i  m  y  y  o  x  e  w  o  q  n  
-
-    t  y  g  t  v  x  w  t  n  a  a  l  d  d  a  f  f  a  x  q  z  k  e  r  r  o  q  c  f  s  
-
-    h  s  y  s  t  e  m  a  t  i  c  v  o  l  r  v  h  o  l  e  u  n  u  n  p  u  h  i  f  n  
-
-    k  e  q  u  a  t  i  o  n  s  v  b  y  f  m  e  n  w  f  s  s  n  s  e  x  m  y  h  e  t  
+    a  z  w  m  x  o  z  f  v  w  w  x  r  c  l  m  u  l  t  i  p  l  e  s  u  g  f  r  b  d  
 
 
     math                    emily                   addition                subtraction         
@@ -174,69 +166,65 @@ MATH
 ```
 
 
+    v  a  z  j  g  b  w  e  y  j  s  t  h  t  z  f  p  h  d  e  f  r  a  c  t  i  o  n  i  w  
 
-SCIENCE
+    t  n  u  k  l  z  t  m  i  f  c  q  x  u  m  o  l  e  c  u  l  e  s  t  r  x  z  j  z  i  
 
+    e  p  n  o  i  t  c  a  e  r  k  u  p  c  c  t  f  l  w  k  k  y  j  q  o  s  w  e  a  z  
 
-    u  u  s  y  q  a  v  v  f  m  n  l  f  s  s  i  e  q  p  q  v  k  u  i  p  w  v  n  m  a  
+    r  l  g  n  m  j  r  b  l  q  t  m  n  i  z  f  l  m  z  k  m  g  f  t  n  t  h  l  v  k  
 
-    r  t  q  l  c  l  q  e  j  o  y  f  i  c  e  n  g  d  i  n  a  k  f  u  e  a  w  f  o  o  
+    j  m  e  j  t  f  e  h  g  m  c  c  u  n  q  p  l  t  s  p  e  t  e  n  g  h  g  y  l  t  
 
-    e  q  v  m  s  x  e  e  p  t  d  w  m  g  u  t  m  d  k  t  c  h  d  d  h  a  b  f  l  q  
+    u  t  r  n  a  f  j  j  j  m  k  x  s  s  a  m  k  c  f  z  g  y  k  a  z  g  q  c  x  v  
 
-    d  t  r  j  j  p  j  u  e  a  g  v  n  n  h  f  l  d  n  j  q  y  w  q  t  m  p  m  e  p  
+    j  y  u  o  a  q  d  n  e  b  q  d  x  b  g  j  c  h  v  l  m  k  b  l  s  i  k  a  f  h  
 
-    l  j  s  y  y  q  c  s  h  f  x  q  s  x  l  t  u  p  a  u  k  m  s  e  i  e  v  w  c  x  
+    d  b  a  m  y  g  l  e  l  w  p  r  e  f  r  a  c  t  i  o  n  f  f  p  a  l  e  n  z  c  
 
-    o  q  n  d  a  f  d  x  g  k  f  j  p  u  m  e  d  f  w  o  o  a  r  p  w  l  b  r  u  d  
+    j  a  u  b  w  r  s  k  j  z  l  j  o  j  s  o  l  d  e  r  h  n  d  b  t  f  y  x  y  t  
 
-    s  y  o  m  i  x  y  k  b  s  y  y  a  d  m  a  e  t  s  g  u  s  c  d  k  h  r  t  l  i  
+    u  n  l  m  a  b  b  t  l  w  a  a  b  v  m  p  j  k  n  s  x  v  n  l  l  f  j  f  l  f  
 
-    v  y  i  z  e  e  v  v  s  i  e  t  b  d  l  j  j  f  g  a  m  r  b  r  w  k  e  a  e  s  
+    d  p  n  f  e  x  n  f  m  a  e  c  m  i  a  j  o  l  e  l  y  w  v  b  w  r  v  q  v  q  
 
-    o  g  t  n  x  i  j  c  w  x  r  n  m  a  n  o  r  p  v  b  t  i  e  t  a  r  a  i  z  t  
+    n  r  c  h  e  m  i  s  t  t  e  o  y  r  u  x  s  q  r  j  j  o  j  b  x  h  j  c  g  t  
 
-    l  q  c  o  b  d  n  s  p  v  o  d  n  o  g  e  r  t  k  p  w  a  o  b  j  f  m  s  z  a  
+    j  s  o  x  p  l  r  j  i  o  r  a  a  u  w  t  g  r  u  r  l  n  q  x  k  c  t  w  i  t  
 
-    m  w  a  i  x  j  d  e  c  q  i  i  r  b  u  l  g  f  i  c  c  f  l  l  i  c  z  n  z  n  
+    j  h  y  m  n  l  c  z  m  m  d  e  t  b  e  d  n  z  t  d  m  i  w  q  i  h  u  m  o  y  
 
-    e  t  r  t  v  o  r  s  v  x  f  v  h  t  m  s  g  h  x  h  l  m  c  l  p  v  w  o  p  c  
+    t  k  p  c  y  d  k  t  x  m  j  k  p  m  l  l  e  w  x  d  t  u  d  f  g  o  e  n  e  m  
 
-    w  o  f  c  t  i  u  v  o  v  n  o  i  t  c  a  r  f  e  r  w  e  f  m  t  i  g  i  c  e  
+    f  m  g  m  c  g  z  e  a  c  d  l  f  o  h  e  g  k  i  c  p  d  g  i  i  f  f  z  x  v  
 
-    o  o  e  a  m  i  i  e  k  x  h  x  q  i  q  k  i  w  o  z  a  t  v  z  l  z  w  s  v  u  
+    k  b  i  u  h  e  x  e  n  t  q  a  g  b  s  b  h  l  m  k  k  r  l  f  a  e  y  i  l  y  
 
-    h  d  d  e  x  x  m  p  a  r  m  o  e  l  d  a  v  q  n  r  p  s  g  p  h  x  q  n  a  x  
+    u  i  z  l  c  d  t  n  k  h  i  m  q  i  m  c  x  a  q  q  z  a  y  n  n  b  d  a  e  n  
 
-    m  g  n  r  l  e  x  e  y  x  l  n  z  u  k  h  m  e  i  v  v  s  j  j  p  b  b  e  o  d  
+    p  r  y  t  w  s  x  r  p  r  g  t  w  s  d  c  c  b  a  f  c  g  y  w  t  k  o  w  m  u  
 
-    a  t  i  t  d  d  d  d  w  q  c  g  i  j  m  l  f  k  u  s  w  a  h  b  y  b  p  t  j  e  
+    z  d  a  n  f  o  e  t  o  d  i  s  t  a  n  c  e  s  a  s  s  l  m  q  x  d  b  w  g  f  
 
-    g  h  i  s  y  c  s  b  q  e  j  n  z  t  p  j  j  g  d  y  z  s  b  x  v  q  u  e  y  f  
+    n  z  u  l  y  t  m  m  w  g  b  c  u  i  g  d  y  n  o  a  c  e  g  j  q  q  a  p  c  k  
 
-    u  h  k  q  h  l  q  q  r  z  h  h  t  s  t  l  v  f  r  e  f  z  h  d  w  y  y  e  a  t  
+    b  f  z  k  a  y  c  d  e  k  x  i  d  m  l  r  g  u  e  o  v  i  v  y  a  j  u  z  x  y  
 
-    r  s  r  l  w  s  c  i  o  x  s  q  w  v  q  m  a  w  a  a  j  c  k  p  s  u  h  l  s  c  
+    k  w  u  w  d  q  c  w  r  n  q  x  g  s  l  c  n  v  k  k  h  f  e  a  e  o  y  k  n  q  
 
-    x  k  l  n  l  e  l  s  f  j  w  u  p  u  h  i  g  n  r  t  h  z  y  r  k  c  m  i  z  b  
+    m  e  q  l  m  e  x  p  e  r  i  m  e  n  t  d  c  z  e  f  m  i  x  n  w  e  c  s  g  b  
 
-    f  p  y  x  b  v  f  d  x  n  u  c  l  e  a  r  r  l  t  m  t  q  d  n  l  k  m  t  i  q  
+    s  n  o  i  s  n  e  t  z  g  q  r  a  e  l  c  u  n  o  a  m  p  a  u  c  d  f  s  t  r  
 
-    l  x  c  a  j  a  i  f  s  c  m  f  x  w  d  i  h  u  v  d  a  j  h  d  b  e  w  r  g  p  
+    m  f  d  e  v  i  o  g  x  z  i  i  f  t  y  w  w  p  z  e  j  a  v  p  t  e  n  d  o  c  
 
-    v  b  x  q  p  w  m  a  s  s  j  w  e  d  y  v  h  o  e  x  v  c  t  k  h  t  z  e  d  d  
+    z  j  x  q  m  j  j  x  d  y  h  n  f  o  u  v  d  y  j  f  h  l  i  k  l  j  r  u  n  e  
 
-    h  t  y  a  n  d  s  j  m  c  p  j  e  e  y  p  n  y  v  r  m  t  k  c  u  n  s  t  p  z  
+    b  z  o  j  g  i  o  b  h  a  z  q  k  s  h  g  y  a  l  v  o  d  i  p  s  a  a  a  o  l  
 
-    o  h  f  t  i  n  w  n  p  y  y  m  h  v  v  e  o  p  n  k  u  z  h  l  d  j  y  g  j  a  
+    g  d  x  d  y  a  a  n  i  v  t  o  b  v  z  v  w  k  p  h  j  w  r  y  y  h  t  t  i  s  
 
-    e  p  i  a  u  u  r  a  i  g  r  a  h  w  p  o  f  w  m  l  x  t  m  g  q  p  m  o  n  b  
-
-    k  z  k  d  s  o  m  v  t  r  w  e  d  b  b  m  f  k  e  k  h  l  x  v  i  j  q  e  d  l  
-
-    h  b  x  i  g  s  x  f  o  v  z  w  u  x  k  l  r  f  d  r  g  j  v  i  l  l  l  k  z  w  
-
-    i  c  e  e  v  s  l  k  x  d  s  l  g  z  z  k  x  x  j  x  e  t  e  l  m  e  f  k  r  b  
+    s  d  n  j  d  u  b  m  q  i  q  a  t  k  y  x  l  d  b  n  b  p  z  o  m  y  e  t  v  b  
 
 
     science                 elena                   amy                     chemist             
@@ -256,69 +244,65 @@ SCIENCE
 ```
 
 
+    g  b  e  j  c  q  j  b  t  r  f  t  n  x  m  f  l  a  f  b  l  w  k  h  v  f  u  j  m  s  
 
-SEL
+    h  n  m  s  i  s  i  x  d  j  y  p  t  u  c  r  t  l  u  c  k  o  x  n  m  s  n  p  s  t  
 
+    s  b  o  e  v  r  g  g  m  u  j  q  z  p  p  r  b  e  x  v  j  e  r  l  e  e  g  x  c  k  
 
-    r  j  p  t  z  w  m  n  d  n  x  l  f  d  i  y  q  p  s  e  o  l  g  e  t  x  h  j  s  z  
+    c  s  t  l  r  u  e  h  l  v  o  n  w  n  k  g  t  q  d  w  z  x  p  l  l  d  e  n  m  h  
 
-    o  f  c  b  f  n  e  l  v  a  f  o  d  b  k  h  z  i  f  e  c  z  c  p  e  s  g  e  q  b  
+    t  g  i  f  e  s  q  s  a  i  r  x  o  j  d  n  t  i  b  d  p  e  s  m  f  m  h  b  j  f  
 
-    x  f  o  q  i  r  m  x  q  o  q  x  z  l  j  t  v  g  s  h  l  x  m  y  h  c  q  u  z  n  
+    z  j  o  r  z  h  b  e  q  d  f  s  e  r  f  j  w  i  g  c  x  t  a  b  o  o  a  s  a  x  
 
-    g  w  b  x  d  k  v  n  z  i  z  k  e  e  i  z  t  y  w  q  e  l  y  w  b  l  z  m  f  s  
+    q  h  n  e  j  a  v  x  z  j  t  x  p  j  p  l  m  d  a  a  r  z  l  t  q  y  c  j  i  p  
 
-    h  s  b  g  e  q  u  z  v  e  p  m  m  v  k  r  f  k  q  x  t  g  w  y  z  i  a  o  e  s  
+    q  g  a  f  z  v  z  h  l  b  v  r  q  j  b  e  t  o  m  a  l  l  i  f  b  k  w  q  z  m  
 
-    j  u  o  d  e  p  b  w  z  r  h  i  o  t  p  j  l  w  p  q  m  z  p  k  z  u  l  g  z  d  
+    o  b  l  l  n  o  i  t  n  e  t  n  i  a  s  e  j  c  e  g  n  o  j  h  g  k  q  p  h  i  
 
-    d  k  x  n  s  k  t  i  k  x  t  t  t  h  x  c  z  a  x  d  j  r  a  s  b  s  a  u  h  r  
+    g  v  t  e  c  r  q  q  m  m  n  o  k  s  m  y  s  h  x  d  n  h  e  l  p  f  u  l  e  u  
 
-    p  k  h  a  c  o  a  c  l  d  h  o  i  c  a  q  s  o  n  f  n  o  i  s  u  l  c  n  i  i  
+    w  z  h  c  l  e  b  h  d  a  b  q  a  d  n  n  c  t  g  m  a  y  r  m  v  d  k  k  b  e  
 
-    m  h  h  c  a  f  m  l  a  c  j  e  o  e  p  w  x  w  m  i  g  k  d  k  s  x  w  c  c  c  
+    y  u  e  t  w  c  a  c  c  k  p  g  m  d  p  e  u  y  s  f  c  w  s  d  f  l  s  t  h  b  
 
-    n  a  x  h  l  m  n  s  m  i  b  z  n  m  i  l  i  s  t  e  n  w  i  t  h  e  y  e  s  y  
+    a  b  m  i  k  f  w  h  c  w  e  p  m  u  z  u  t  m  u  e  w  p  z  d  o  u  j  s  h  g  
 
-    m  g  u  s  a  p  j  h  i  f  x  e  a  t  a  k  h  f  x  y  i  a  m  h  e  a  r  t  x  u  
+    y  g  o  o  f  j  s  m  h  e  w  k  r  g  d  i  v  l  l  q  l  m  h  s  z  t  l  c  a  d  
 
-    i  d  b  a  t  i  i  r  b  a  s  u  l  u  x  m  b  o  x  x  m  m  s  i  c  t  k  r  r  z  
+    p  j  m  n  o  a  d  j  p  h  w  z  f  k  n  b  m  h  c  z  l  f  i  n  r  r  y  y  a  x  
 
-    n  q  k  r  e  t  z  q  u  t  u  o  t  i  k  l  a  t  r  h  e  q  t  j  g  d  m  h  a  v  
+    i  z  e  q  r  d  j  w  s  k  c  r  t  u  h  j  c  e  f  f  o  l  o  o  c  j  e  q  w  s  
 
-    d  u  u  t  l  g  c  j  n  j  c  w  h  h  i  e  p  z  x  a  s  x  e  n  f  m  o  s  m  n  
+    p  n  t  t  v  w  x  l  a  m  d  q  m  x  t  t  y  y  z  k  a  a  w  t  p  a  b  j  j  s  
 
-    f  m  q  f  a  u  m  r  o  m  b  g  e  z  z  f  a  d  b  f  s  i  p  z  x  i  n  l  u  o  
+    m  j  e  w  v  k  a  r  d  v  x  m  g  b  g  v  e  o  e  a  t  s  c  a  r  i  g  e  c  e  
 
-    u  m  w  h  r  w  v  v  i  h  i  y  m  f  e  i  q  g  g  v  a  x  d  q  l  n  z  e  j  i  
+    v  o  r  l  j  z  c  n  m  w  o  z  p  i  v  m  i  m  u  n  u  i  a  p  m  w  b  c  w  n  
 
-    l  u  e  r  l  h  g  f  t  z  i  j  o  z  m  n  h  t  y  c  g  r  o  q  w  t  a  m  q  t  
+    e  h  x  z  o  q  b  y  z  c  l  y  e  t  v  q  q  p  x  u  q  l  l  l  f  g  j  g  a  l  
 
-    l  s  e  u  u  g  e  x  o  y  f  s  m  b  z  f  t  i  h  a  e  w  w  a  v  e  w  p  q  c  
+    t  t  l  a  i  p  d  s  v  y  g  r  r  t  b  c  q  p  j  q  u  m  m  y  x  n  f  z  u  l  
 
-    n  h  g  s  c  c  i  v  m  w  t  r  e  z  o  e  m  a  d  n  n  c  n  w  c  n  t  a  r  e  
+    a  a  k  u  h  q  j  t  m  c  n  a  r  b  e  l  g  n  a  t  n  e  z  s  z  o  w  o  v  u  
 
-    e  h  e  l  p  f  u  l  e  f  o  l  t  o  t  e  r  t  n  v  t  e  q  u  k  t  l  t  n  l  
+    l  l  p  k  c  l  u  e  n  a  l  r  c  j  e  s  m  s  g  n  i  l  e  e  f  i  n  u  u  f  
 
-    s  q  r  w  g  o  w  s  h  z  n  u  e  k  n  l  x  t  r  g  b  h  t  g  m  i  h  h  x  f  
+    a  k  o  c  h  u  k  p  h  u  h  e  b  l  j  l  m  r  j  t  i  x  a  z  q  s  l  p  x  d  
 
-    s  q  s  f  d  r  o  s  i  i  e  y  r  h  h  i  w  z  y  f  l  u  j  s  n  o  f  y  e  e  
+    c  i  l  l  p  y  z  d  s  p  r  e  a  h  t  e  n  o  t  i  q  g  f  y  l  u  x  j  i  n  
 
-    l  q  k  o  u  a  i  o  w  g  z  f  h  g  z  n  p  s  m  a  k  e  e  p  i  n  s  e  c  r  
+    s  t  n  i  t  a  f  o  q  k  r  p  h  t  p  f  v  p  r  d  e  i  a  m  y  l  c  m  z  i  
 
-    w  t  f  f  o  l  o  o  c  x  u  m  s  b  m  g  k  y  s  n  e  r  j  o  u  l  w  u  y  f  
+    e  o  g  s  e  q  n  w  r  c  n  z  h  i  m  n  o  i  s  u  l  c  x  e  k  c  t  z  h  m  
 
-    o  t  s  d  v  i  v  j  s  e  q  j  b  j  o  s  u  i  c  r  i  w  m  t  p  p  w  y  p  l  
+    e  u  v  t  z  h  w  n  v  p  u  s  e  y  e  h  t  i  w  n  e  t  s  i  l  n  y  u  j  d  
 
-    l  i  a  k  w  t  u  u  c  t  s  u  r  w  s  n  l  c  z  x  a  b  f  v  o  j  e  g  w  e  
+    d  t  z  e  x  k  y  h  t  a  p  m  e  s  t  e  p  u  p  m  o  g  c  k  j  i  d  w  m  j  
 
-    w  p  i  b  e  s  t  s  e  l  f  r  s  x  y  v  z  j  t  c  f  e  u  b  f  l  a  t  t  s  
-
-    t  q  e  k  y  p  a  u  e  h  x  j  s  v  h  e  x  c  l  u  s  i  o  n  l  v  b  q  s  c  
-
-    z  j  s  o  i  x  o  w  w  j  p  c  x  t  w  d  s  x  n  s  t  d  s  b  r  g  q  n  u  m  
-
-    m  s  v  z  s  m  a  w  n  z  s  c  h  u  h  p  r  d  c  o  m  m  u  n  i  t  y  h  u  c  
+    q  e  c  n  k  q  i  i  s  g  y  c  y  x  j  f  p  l  n  k  d  l  x  c  c  r  l  q  j  k  
 
 
     sel                     lisa                    helpful                 imessage            
@@ -337,69 +321,65 @@ SEL
 ```
 
 
+    o  v  w  d  q  p  v  t  y  m  a  s  z  f  b  w  p  t  x  f  h  i  x  e  y  j  x  d  t  n  
 
-SWI
+    o  l  l  v  w  z  v  f  o  h  s  d  j  i  z  t  j  n  i  b  w  i  g  i  u  s  b  s  k  h  
 
+    a  m  d  f  q  b  n  p  y  i  u  y  m  l  e  w  o  v  l  q  h  i  r  g  v  n  l  h  n  h  
 
-    p  q  o  r  n  t  t  q  q  m  p  z  q  h  b  t  i  g  c  y  r  h  r  b  m  y  u  x  b  s  
+    m  a  s  e  z  b  e  z  n  k  w  h  l  k  f  m  d  x  a  g  f  y  o  l  m  f  z  r  s  n  
 
-    x  j  d  x  e  o  r  b  x  s  s  f  d  o  e  y  k  f  b  a  q  z  u  q  g  c  z  o  i  o  
+    m  o  p  b  n  o  m  l  h  x  c  f  f  l  v  a  l  j  i  y  l  t  v  a  d  h  t  i  t  m  
 
-    n  g  i  p  q  b  g  o  c  r  y  n  k  y  d  n  t  d  c  v  i  m  u  a  v  m  o  j  d  x  
+    a  k  p  g  q  g  x  d  o  v  x  q  h  x  a  z  z  j  t  j  v  y  g  n  a  a  l  i  w  s  
 
-    l  q  m  y  k  d  e  r  k  s  w  y  q  q  x  b  v  s  n  d  h  c  j  k  g  y  u  w  q  n  
+    f  i  g  r  x  q  l  o  b  x  y  u  m  u  b  b  b  g  i  r  q  t  y  n  r  g  s  q  s  t  
 
-    m  w  i  m  o  z  i  c  g  m  e  r  x  w  j  k  z  h  c  q  v  n  g  z  n  p  a  o  t  k  
+    l  u  v  c  e  y  a  i  x  j  t  c  e  s  g  y  l  e  n  b  i  x  d  w  n  v  l  m  d  i  
 
-    j  l  v  x  e  p  d  a  c  u  r  k  u  l  k  o  y  n  e  a  i  j  g  i  i  c  x  g  i  q  
+    r  h  z  c  p  f  k  k  s  o  a  v  y  b  g  q  p  e  i  v  e  w  o  e  p  v  w  m  r  h  
 
-    g  g  a  n  t  s  a  q  x  a  g  x  x  i  f  f  u  s  w  w  s  r  l  f  t  e  o  y  a  q  
+    v  q  v  i  s  j  i  o  e  h  i  c  y  x  l  s  o  u  a  c  r  c  e  w  e  f  e  d  j  u  
 
-    k  n  e  i  e  w  t  a  d  v  e  r  b  z  m  g  p  i  f  y  i  h  b  u  i  o  y  y  t  d  
+    g  v  q  h  w  q  b  x  r  t  n  q  i  m  o  b  f  e  a  i  c  l  f  v  e  r  b  s  l  d  
 
-    l  r  v  b  t  i  b  x  q  j  j  b  f  v  k  u  x  j  l  z  n  m  p  c  r  k  d  y  x  x  
+    a  o  e  v  b  u  b  i  c  v  f  a  a  t  l  o  p  c  t  q  d  i  j  i  l  t  m  f  a  g  
 
-    a  a  b  c  o  i  u  y  j  x  u  f  x  i  j  h  c  l  s  p  k  b  y  i  w  u  z  h  i  a  
+    i  o  y  z  r  h  m  e  j  v  m  o  j  s  q  f  c  i  l  d  d  u  n  j  j  e  m  l  w  o  
 
-    u  u  l  d  q  a  n  g  y  y  u  y  q  x  h  t  a  o  z  n  o  i  v  o  d  w  e  v  f  l  
+    i  s  h  k  u  h  j  l  y  x  i  i  n  b  k  e  n  c  i  i  u  u  z  x  d  g  m  y  i  g  
 
-    w  y  x  n  a  u  x  i  d  l  x  b  j  r  s  b  e  l  n  u  h  e  y  b  n  w  e  l  e  c  
+    p  q  j  u  o  d  d  v  i  m  a  p  z  m  b  g  a  m  j  o  h  r  c  i  s  u  z  h  g  a  
 
-    o  n  b  f  s  o  i  x  a  r  k  l  l  j  l  k  j  r  o  d  r  k  u  z  a  x  c  a  r  k  
+    h  f  h  y  a  x  c  f  c  x  s  d  o  e  s  f  s  s  h  m  s  e  a  f  g  r  f  x  f  r  
 
-    n  u  z  c  i  e  f  y  x  l  o  b  a  e  t  z  d  t  c  b  u  c  k  h  h  z  i  n  p  j  
+    o  i  d  r  m  l  f  h  u  d  c  r  r  p  t  b  x  v  n  u  e  l  m  p  i  w  b  q  i  m  
 
-    a  f  t  c  p  w  o  l  t  t  x  w  v  i  b  u  r  h  d  p  y  x  d  f  r  n  x  i  m  n  
+    n  i  n  o  m  u  n  n  g  y  d  n  m  w  r  q  s  w  i  v  w  u  j  c  u  a  y  l  n  o  
 
-    w  s  t  o  v  f  a  v  n  o  d  z  d  d  d  e  l  w  e  r  z  w  s  s  r  q  u  f  w  l  
+    e  f  q  t  s  w  b  f  p  f  r  m  e  o  t  q  p  a  n  t  i  c  m  t  p  j  m  g  a  j  
 
-    f  n  b  a  s  b  u  u  a  i  o  o  x  n  s  e  h  c  a  v  r  j  a  r  p  o  q  o  v  i  
+    m  p  o  s  e  i  u  s  v  p  o  g  o  x  c  m  o  u  a  z  r  f  m  o  r  o  f  j  l  d  
 
-    t  u  o  w  g  k  f  o  x  v  b  r  d  l  u  y  m  j  z  r  x  j  y  x  v  o  n  b  n  f  
+    e  d  a  b  r  e  v  d  a  l  w  t  z  q  x  v  f  h  l  u  o  f  m  t  m  h  h  b  i  e  
 
-    o  h  l  k  i  d  n  j  k  l  g  h  x  s  e  o  t  k  l  l  v  a  l  g  o  e  v  p  e  e  
+    k  b  t  d  k  n  f  y  b  u  d  j  i  p  y  s  b  n  q  r  r  k  s  z  k  c  j  j  d  t  
 
-    i  h  d  a  o  b  k  j  q  r  j  g  m  q  d  c  p  q  p  r  r  e  a  k  w  k  w  a  o  u  
+    k  k  z  p  o  b  l  g  e  k  n  f  v  e  t  z  u  x  m  s  a  e  q  a  d  x  r  c  y  a  
 
-    g  z  e  f  a  d  j  e  c  t  i  v  e  i  e  g  d  m  m  k  t  e  t  k  e  u  q  u  s  n  
+    z  h  f  u  i  o  s  s  r  k  u  m  z  m  m  s  b  p  j  s  m  e  n  w  w  r  t  e  v  m  
 
-    b  e  n  h  s  i  l  g  n  e  e  l  d  d  i  m  b  s  o  m  n  g  i  s  l  f  u  w  s  d  
+    q  z  n  b  f  r  a  f  i  a  o  u  x  x  e  o  s  a  l  f  r  r  c  b  d  o  q  k  f  w  
 
-    a  f  g  z  b  v  o  q  l  o  e  i  v  h  n  l  x  e  u  c  q  x  n  m  w  m  l  q  t  r  
+    d  q  q  p  j  b  c  m  v  b  p  x  c  j  v  b  k  j  l  w  f  g  w  u  d  d  c  r  x  g  
 
-    s  t  l  u  h  b  b  s  m  f  z  n  e  v  r  d  q  e  w  e  r  z  b  c  d  j  l  e  o  u  
+    h  x  u  o  v  s  g  s  m  u  m  h  l  a  t  i  n  b  h  m  m  b  p  n  o  t  h  g  l  j  
 
-    e  o  i  h  m  u  d  v  l  d  y  p  d  d  r  w  w  b  t  w  m  s  c  k  t  r  e  y  r  l  
+    v  y  z  p  z  q  e  a  f  d  o  s  e  n  d  d  r  y  n  p  s  r  u  z  h  f  e  m  u  s  
 
-    h  e  s  c  r  w  c  f  y  y  a  r  y  w  f  g  o  z  r  k  e  e  a  b  n  j  m  b  y  e  
+    r  j  y  t  y  y  e  u  k  h  c  f  n  m  r  l  k  z  i  z  n  l  k  a  q  p  b  w  p  x  
 
-    i  v  h  f  t  t  l  g  u  l  n  l  n  g  s  d  v  i  k  e  z  k  n  t  c  q  w  q  d  v  
-
-    a  b  k  e  e  r  g  r  a  p  h  e  m  e  v  z  c  b  u  y  x  j  o  o  o  y  x  c  v  g  
-
-    p  g  g  h  g  h  z  f  s  r  l  n  p  s  r  o  l  v  k  x  k  d  w  r  h  f  z  h  q  c  
-
-    g  p  o  i  e  u  r  m  t  j  k  p  p  a  s  a  v  f  q  m  g  k  p  s  n  p  b  n  m  s  
+    q  z  r  b  i  s  n  k  v  l  i  b  i  k  e  o  i  k  w  j  f  v  v  i  l  y  p  v  e  c  
 
 
     swi                     rebecca                 noun                    verb                
@@ -418,69 +398,65 @@ SWI
 ```
 
 
+    h  h  k  j  d  k  d  e  q  t  g  w  i  x  z  v  i  t  q  j  u  e  n  f  g  r  g  c  q  b  
 
-PE
+    o  y  s  o  o  f  i  y  v  c  g  q  b  u  n  t  h  r  o  k  y  h  p  e  x  g  m  l  m  i  
 
+    d  b  i  a  l  e  u  l  a  x  l  e  b  n  c  c  n  l  r  o  q  a  o  a  y  h  j  i  m  q  
 
-    t  k  q  e  y  y  u  s  a  e  a  c  o  y  k  k  y  o  m  u  s  c  l  e  s  t  l  a  r  c  
+    c  a  o  z  i  g  h  p  c  z  v  i  x  b  v  o  z  d  n  f  b  l  i  v  d  e  w  d  j  y  
 
-    e  n  h  v  p  a  d  s  e  b  w  g  s  j  s  e  s  g  k  i  z  m  x  m  t  f  c  q  r  d  
+    l  s  s  z  x  p  c  o  q  t  n  p  b  e  r  i  o  g  c  x  o  h  l  f  v  y  c  i  q  w  
 
-    h  e  e  f  r  j  h  k  m  u  n  e  j  k  u  q  b  y  b  s  z  o  m  e  m  u  g  y  d  x  
+    f  k  d  g  y  b  s  v  f  g  b  l  l  o  r  d  q  p  v  r  n  m  r  y  s  g  p  n  a  y  
 
-    g  j  y  c  h  h  i  x  g  n  o  p  g  n  i  p  r  a  q  o  l  a  k  q  l  n  j  l  d  y  
+    o  e  u  h  n  y  i  c  f  i  t  f  x  b  g  c  i  r  g  h  e  s  x  q  o  o  p  l  u  v  
 
-    g  k  q  k  z  f  p  a  o  a  g  u  m  z  j  z  j  v  z  g  y  c  d  h  i  z  r  e  t  r  
+    l  t  r  e  m  l  m  p  q  e  o  a  t  e  t  i  i  s  q  e  s  g  m  f  t  n  v  x  n  r  
 
-    c  i  m  f  o  z  c  s  d  a  y  l  p  c  r  q  i  e  s  e  y  h  x  m  y  h  d  v  w  h  
+    d  b  o  f  x  k  w  t  s  o  t  a  b  b  e  z  p  s  i  d  b  y  e  k  c  o  h  z  n  j  
 
-    l  z  y  v  n  s  o  z  o  z  x  j  m  r  u  w  l  n  n  e  e  z  m  i  i  d  u  u  z  v  
+    c  a  m  u  u  o  h  f  d  e  e  a  u  t  d  q  o  w  e  s  q  a  n  h  a  d  w  q  h  k  
 
-    i  x  r  i  t  t  h  u  n  d  e  r  b  a  l  l  l  k  k  k  v  i  x  p  o  m  q  x  a  f  
+    d  l  i  m  h  l  p  i  n  a  l  g  r  z  f  t  s  t  m  w  o  j  j  g  g  f  f  a  y  x  
 
-    m  b  r  k  t  j  u  m  p  r  o  p  e  q  e  v  f  c  i  j  w  e  x  e  r  c  i  s  e  r  
+    j  l  u  a  r  u  f  n  y  l  a  k  n  e  h  n  z  s  e  i  r  o  l  a  c  i  i  l  r  r  
 
-    b  o  d  m  z  f  o  e  m  f  b  m  t  a  r  b  o  l  d  s  s  q  l  c  o  q  d  a  j  k  
+    a  s  v  l  a  w  i  u  h  q  j  y  v  i  c  w  k  m  u  o  b  o  d  y  y  k  b  z  t  i  
 
-    i  t  h  o  x  l  l  a  b  t  e  k  s  a  b  h  x  f  u  s  d  i  d  w  a  r  l  e  b  z  
+    e  e  q  p  k  s  u  j  q  d  q  j  y  e  m  c  y  x  u  y  x  l  b  l  o  x  e  w  j  a  
 
-    n  o  j  g  k  v  r  y  e  f  h  w  q  i  u  o  c  n  o  h  i  r  h  h  g  m  b  p  x  c  
+    q  n  l  x  d  m  v  z  p  s  o  o  y  p  l  m  o  f  c  j  j  q  k  i  c  m  r  s  t  z  
 
-    g  i  m  p  r  a  v  r  c  p  e  d  k  f  d  o  d  g  e  b  a  l  l  k  r  p  b  j  w  o  
+    a  k  w  l  l  a  b  t  o  o  f  m  x  x  t  j  i  s  y  t  a  d  u  t  k  m  f  k  j  f  
 
-    u  y  q  d  k  i  z  w  r  k  u  n  e  x  w  f  g  d  b  l  e  d  t  u  d  c  d  u  c  p  
+    r  q  w  a  c  p  e  r  s  i  s  t  e  n  c  e  u  w  i  c  v  g  h  e  k  i  g  s  z  k  
 
-    j  u  j  a  y  d  o  b  y  i  q  l  y  s  b  n  s  f  w  f  y  s  n  k  o  v  n  g  l  e  
+    b  j  o  t  z  g  k  r  a  w  t  s  d  i  e  t  v  d  s  c  e  u  j  a  q  b  n  t  a  d  
 
-    i  t  h  f  n  e  k  f  k  k  w  l  m  f  i  o  w  f  v  r  h  p  v  u  m  u  x  v  u  r  
+    r  e  d  r  a  h  h  s  u  p  j  l  c  p  i  u  m  a  l  g  n  i  n  n  u  r  q  g  x  p  
 
-    c  r  r  u  f  o  t  t  c  k  i  t  o  i  r  n  z  l  l  o  w  s  u  g  a  r  k  v  l  s  
+    m  j  p  k  e  m  k  t  i  u  n  k  f  h  i  e  f  i  r  d  n  m  y  u  v  s  r  e  s  f  
 
-    d  x  e  n  h  r  u  y  s  b  d  j  k  n  v  y  n  k  g  o  b  i  k  i  n  g  p  n  q  i  
+    s  t  r  o  p  s  j  i  m  n  s  n  f  c  l  n  m  g  e  x  g  q  n  c  r  g  s  m  w  p  
 
-    f  r  e  d  r  a  h  h  s  u  p  s  d  b  u  f  m  e  p  p  r  d  w  c  b  c  r  u  o  s  
+    b  g  y  q  j  a  q  p  o  u  o  z  s  k  q  b  g  r  j  h  z  c  f  r  r  n  f  s  f  v  
 
-    a  d  u  f  o  p  f  k  u  n  e  c  o  d  g  t  o  w  t  m  o  k  g  l  d  c  h  t  w  t  
+    p  a  u  t  b  i  r  i  i  b  z  u  d  x  i  f  b  p  r  x  e  j  e  t  u  i  r  b  i  o  
 
-    x  t  u  i  l  f  b  d  i  r  b  r  x  i  j  q  r  t  a  r  u  z  u  b  i  n  g  v  s  e  
+    k  i  a  e  c  o  t  d  a  y  c  j  e  n  p  a  h  z  o  q  q  h  d  n  m  i  x  u  j  v  
 
-    u  h  g  h  s  n  i  u  d  m  s  j  p  e  c  h  a  i  d  t  i  y  s  z  r  g  i  f  g  n  
+    j  s  z  e  p  i  u  k  j  d  j  p  g  e  l  f  n  c  g  n  k  q  g  x  g  k  j  a  m  o  
 
-    r  f  w  d  e  e  z  b  v  d  d  i  s  t  h  e  f  r  t  i  s  b  o  k  v  y  w  c  s  c  
+    q  q  m  e  r  n  v  h  c  x  f  t  r  l  i  p  u  r  x  f  g  b  u  d  z  s  p  r  v  c  
 
-    z  e  q  n  n  k  n  m  e  w  o  t  q  x  v  a  h  e  c  i  v  m  c  q  w  n  y  f  u  e  
+    c  w  u  t  g  d  e  a  p  u  u  p  h  e  s  t  j  x  s  e  l  c  s  u  m  l  l  f  l  t  
 
-    e  u  j  v  l  i  e  o  i  r  r  k  f  t  g  l  d  p  g  r  o  z  c  f  r  x  a  u  x  c  
+    z  y  u  w  s  p  w  v  b  m  l  f  u  k  h  m  s  y  z  p  j  o  d  h  h  p  u  j  b  f  
 
-    r  i  n  z  f  k  m  v  b  o  c  e  g  t  v  t  r  r  l  h  t  n  e  h  q  p  k  p  w  x  
+    u  n  k  n  w  m  f  r  b  b  f  n  h  e  a  l  t  h  y  c  w  q  b  v  w  d  o  k  q  s  
 
-    c  a  l  o  r  i  e  s  p  e  r  h  r  g  c  h  r  k  w  a  b  f  r  c  m  c  a  n  v  o  
-
-    k  f  t  d  p  r  d  s  q  r  s  c  u  x  v  y  i  i  c  a  q  d  t  y  i  w  q  k  n  z  
-
-    z  f  o  o  t  b  a  l  l  b  m  b  d  o  o  f  w  o  x  a  o  p  t  a  x  a  l  n  c  b  
-
-    e  o  g  n  i  n  n  u  r  m  a  c  h  d  c  p  i  r  x  m  q  y  l  g  t  u  m  f  h  h  
+    n  j  f  x  t  c  i  f  v  y  z  o  o  z  t  s  g  o  e  l  o  w  s  u  g  a  r  a  e  l  
 
 
     pe                      zubin                   exercise                running             
@@ -500,69 +476,65 @@ PE
 ```
 
 
+    h  v  x  x  j  m  w  n  o  i  t  a  i  t  n  e  r  e  f  f  i  d  f  r  q  h  l  b  v  y  
 
-NUEVA
+    o  r  e  h  e  h  t  f  o  h  t  a  p  v  f  i  r  c  g  i  t  i  w  r  u  w  r  w  d  j  
 
+    r  v  d  t  o  g  k  s  f  s  e  u  n  v  i  l  b  e  w  o  y  p  o  m  o  m  l  t  c  s  
 
-    c  e  y  t  x  v  e  y  r  i  l  s  n  v  v  l  w  w  u  h  j  v  x  z  r  s  t  y  w  c  
+    j  e  n  v  l  s  c  i  p  u  l  k  w  b  m  t  e  s  t  u  t  o  o  y  g  d  p  h  j  u  
 
-    o  n  l  c  z  u  x  u  t  e  v  o  h  p  u  i  m  e  s  s  a  g  e  e  c  l  w  o  i  k  
+    q  q  g  y  n  i  x  i  n  w  q  v  a  n  a  m  o  s  c  n  b  r  p  z  v  j  r  c  h  o  
 
-    l  o  x  j  y  w  i  t  s  q  i  l  i  z  t  h  c  v  a  z  y  l  o  z  e  v  k  r  s  x  
+    u  r  s  m  x  n  r  s  r  d  t  n  l  e  n  r  a  q  a  r  e  f  x  u  y  j  w  h  f  n  
 
-    l  i  g  a  r  d  e  n  v  s  j  w  o  b  a  t  g  g  h  a  t  c  v  k  n  k  l  e  d  a  
+    s  p  i  r  i  t  e  c  e  o  n  f  k  s  s  v  s  w  m  c  z  c  n  b  r  z  u  n  e  o  
 
-    a  s  e  d  m  k  z  v  n  l  s  x  u  o  k  t  c  y  n  v  i  l  a  t  n  n  a  h  o  s  
+    p  v  p  y  a  d  m  a  e  t  s  e  v  i  i  c  a  o  p  m  n  u  e  z  a  x  d  r  h  r  
 
-    b  u  p  i  b  o  h  a  a  q  m  n  b  i  h  i  y  j  h  o  n  h  i  m  a  m  w  e  m  y  
+    m  e  n  t  n  b  j  w  g  u  n  z  s  m  o  r  s  j  u  z  c  y  y  k  m  i  w  z  x  h  
 
-    o  l  x  g  n  y  m  h  a  i  l  t  j  n  x  c  f  a  j  u  u  n  z  q  p  m  n  h  u  n  
+    e  h  t  l  n  u  w  p  m  y  g  x  a  s  n  z  b  l  s  j  f  y  t  i  n  u  m  m  o  c  
 
-    r  c  s  p  i  r  t  g  h  p  u  m  p  b  p  i  s  a  s  v  m  v  q  l  e  u  w  t  i  c  
+    i  q  e  a  b  o  e  x  t  r  d  t  f  i  d  s  u  o  i  c  a  r  g  z  q  g  a  d  q  n  
 
-    a  n  t  l  y  m  r  b  b  i  d  i  s  n  j  t  z  r  b  d  m  o  e  i  g  z  s  f  g  h  
+    a  b  f  v  r  g  i  v  b  o  o  k  g  r  o  u  p  s  u  p  k  u  o  z  n  c  u  u  k  y  
 
-    t  i  i  o  n  g  f  a  l  y  y  o  l  t  o  x  u  d  e  e  o  g  r  b  s  r  w  o  p  r  
+    n  a  g  e  m  b  y  t  a  i  h  l  e  a  d  e  r  s  h  i  p  m  s  r  c  p  c  o  c  s  
 
-    i  t  r  s  s  e  n  d  n  i  k  e  z  p  e  i  k  y  y  w  c  o  u  r  v  n  u  h  t  o  
+    o  z  t  c  b  j  e  m  a  r  e  n  v  b  v  a  x  r  i  a  f  m  e  t  s  x  t  z  v  a  
 
-    o  s  v  z  m  l  d  c  m  l  a  t  r  t  i  p  t  e  y  x  o  m  u  a  a  h  c  t  m  n  
+    c  p  o  d  m  a  v  l  t  r  i  x  z  r  e  t  o  w  w  g  g  k  m  e  f  s  i  m  c  p  
 
-    n  e  d  y  w  x  w  m  k  d  i  d  v  u  i  h  u  c  n  w  q  l  n  r  u  p  m  a  n  o  
+    l  q  o  c  t  s  e  v  e  n  o  b  u  l  c  t  i  l  w  i  x  e  v  c  z  t  o  a  l  n  
 
-    r  u  i  h  j  c  s  i  e  r  e  e  m  y  s  y  s  p  u  a  q  v  q  y  y  f  j  p  t  u  
+    i  q  h  s  w  n  y  a  n  c  i  b  h  h  n  j  e  m  h  f  s  b  o  w  f  e  n  j  o  l  
 
-    l  q  b  x  o  l  h  r  i  v  r  y  c  i  v  p  w  n  d  a  i  s  k  d  a  v  d  j  z  s  
+    n  p  e  i  a  f  y  g  u  y  p  i  a  o  g  a  r  d  e  n  h  d  a  n  a  w  y  r  o  o  
 
-    w  a  s  z  x  t  s  p  g  t  f  a  d  f  n  p  w  y  e  a  r  d  y  i  s  w  c  t  e  l  
+    z  u  p  i  r  a  d  s  t  u  l  w  i  l  f  y  s  p  q  l  p  b  o  m  r  a  a  s  h  o  
 
-    h  m  t  z  s  h  s  p  e  o  r  r  i  a  o  i  m  s  f  z  y  y  w  f  z  q  u  e  t  z  
+    q  a  d  c  a  r  i  n  g  h  e  t  l  e  l  r  c  g  h  i  t  q  r  m  m  r  d  r  c  h  
 
-    k  g  r  j  i  v  w  a  g  i  d  y  f  r  w  q  s  s  s  g  i  e  s  l  o  g  m  t  a  q  
+    t  p  k  c  e  d  d  q  n  s  a  i  z  i  t  o  n  b  o  q  g  a  p  a  e  d  p  e  s  c  
 
-    s  r  o  p  k  q  c  z  n  n  l  s  f  m  c  w  s  t  c  m  l  t  i  s  r  b  a  a  n  s  
+    c  z  k  c  j  j  k  o  e  r  b  n  m  d  g  a  c  w  s  t  r  o  f  q  r  s  u  h  r  s  
 
-    h  e  f  b  v  h  t  g  u  n  o  t  e  e  o  v  d  k  r  h  m  t  i  a  y  d  v  v  o  s  
+    a  f  k  o  y  z  i  t  t  r  l  e  k  r  d  j  n  l  x  e  j  z  h  d  s  h  p  c  e  r  
 
-    z  t  f  e  e  u  d  e  p  a  o  e  r  r  e  g  s  a  z  a  c  k  c  c  u  a  e  o  i  p  
+    f  p  r  f  s  s  a  s  a  u  s  c  w  f  x  w  k  o  x  o  w  q  h  p  m  i  e  a  p  e  
 
-    f  n  w  r  j  i  v  m  y  g  h  w  e  s  e  f  t  p  q  l  t  i  a  u  q  r  r  n  s  u  
+    e  x  q  p  u  v  i  r  x  s  k  j  h  e  u  o  r  e  i  p  z  j  w  r  a  p  t  e  p  w  
 
-    b  e  s  a  v  a  a  d  j  e  c  a  n  m  t  q  e  c  u  b  o  i  y  r  t  r  i  n  s  o  
+    f  x  j  l  o  n  y  v  a  u  w  a  i  a  s  l  x  i  d  s  v  l  z  a  r  s  s  t  u  o  
 
-    d  c  b  a  l  i  f  s  o  m  s  r  t  a  a  o  m  b  x  u  h  e  o  x  h  r  c  i  a  r  
+    w  w  c  n  i  m  w  g  v  w  o  t  l  j  l  r  d  y  k  y  s  m  r  t  k  x  t  o  x  l  
 
-    f  e  f  p  m  h  k  o  o  c  r  d  i  r  r  a  f  p  s  v  q  c  g  n  a  d  k  m  p  g  
+    l  n  n  m  y  y  e  c  f  w  h  w  a  g  b  a  l  l  e  t  l  a  w  n  e  g  p  i  j  f  
 
-    l  p  x  x  w  f  n  a  h  p  e  s  a  k  b  h  a  v  j  f  a  i  q  u  n  k  s  m  r  k  
+    i  i  d  t  s  t  i  u  d  l  t  s  b  w  k  o  m  j  v  a  t  m  p  x  t  i  e  l  j  b  
 
-    e  p  c  i  l  c  i  b  i  q  p  h  t  e  e  u  i  g  b  f  s  g  b  l  k  p  v  p  u  o  
-
-    n  w  a  l  t  e  l  l  a  b  p  i  i  t  l  c  r  y  e  a  w  e  i  y  f  e  b  m  m  o  
-
-    u  e  s  s  f  w  g  i  u  w  u  p  o  y  e  l  g  k  a  w  d  r  g  m  u  v  d  m  l  b  
-
-    w  n  r  t  h  a  o  j  l  t  q  e  n  i  c  z  s  t  e  a  m  d  a  y  l  o  v  s  u  o  
+    m  a  c  p  i  h  s  n  e  z  i  t  i  c  a  s  k  c  i  r  e  v  a  m  q  p  e  m  o  f  
 
 
     nueva                   diane                   megan                   community           
@@ -587,69 +559,65 @@ NUEVA
 ```
 
 
+    h  w  i  f  a  n  d  f  m  h  e  m  q  h  l  l  u  h  n  l  n  p  p  o  v  k  s  b  m  k  
 
-SCRATCH
+    o  b  b  j  g  n  w  v  j  q  d  f  l  k  x  o  e  u  z  g  o  o  d  f  w  p  s  m  h  n  
 
+    l  c  s  h  c  t  a  r  c  s  z  e  x  h  e  i  l  b  z  r  i  f  j  n  x  l  e  o  l  o  
 
-    b  u  v  q  p  p  u  q  t  r  r  r  n  o  h  t  y  p  j  j  t  n  k  g  n  f  l  k  y  x  
+    z  o  y  l  t  u  s  y  j  t  v  i  d  j  f  q  s  h  b  m  t  y  t  x  w  p  j  s  a  i  
 
-    g  m  f  v  z  u  e  f  a  t  o  e  x  u  n  b  o  t  j  i  v  u  r  x  k  d  s  r  c  r  
+    e  n  x  o  p  m  i  v  w  o  e  r  j  b  j  f  l  r  g  j  c  d  s  f  x  r  m  z  i  i  
 
-    b  w  p  o  z  j  d  s  x  e  y  f  w  g  h  p  i  j  z  g  m  d  p  z  v  d  f  e  g  r  
+    c  t  k  s  i  z  e  u  a  l  q  g  j  t  e  x  j  i  t  h  n  e  b  t  g  b  b  f  z  s  
 
-    w  r  l  w  l  n  r  i  l  y  r  j  r  c  t  w  l  x  a  v  q  i  i  t  m  d  x  r  x  g  
+    e  i  e  p  r  h  e  t  t  d  s  v  d  v  c  v  e  g  s  y  u  s  n  l  q  o  q  y  h  v  
 
-    h  t  i  t  r  g  w  v  e  z  t  m  t  u  t  r  s  y  j  x  l  g  f  d  u  o  u  k  w  i  
+    l  n  t  r  c  v  n  m  s  q  k  t  x  r  y  a  l  r  f  t  f  h  e  t  h  c  r  w  o  f  
 
-    i  n  s  w  y  c  d  f  x  m  r  a  v  m  v  a  y  v  b  q  z  o  n  a  m  o  e  l  d  x  
+    q  u  a  i  s  y  l  x  u  r  q  o  p  e  w  h  i  l  e  s  o  k  q  x  l  e  s  l  a  f  
 
-    l  j  t  c  q  o  f  h  i  m  r  k  l  f  t  e  t  d  o  w  i  b  w  n  h  o  s  v  m  o  
+    p  e  n  t  a  o  h  r  n  v  a  f  z  x  y  p  b  n  j  v  a  f  w  q  z  n  m  x  e  l  
 
-    e  k  o  f  e  u  s  p  p  c  r  u  y  r  p  i  r  x  h  y  k  z  w  s  t  j  i  l  b  n  
+    k  n  e  e  v  j  i  v  y  l  v  a  r  i  a  b  l  e  t  k  j  k  l  f  c  y  f  x  t  e  
 
-    g  d  f  n  n  l  d  s  s  j  v  u  i  n  i  n  a  q  e  h  c  i  o  f  i  p  d  r  b  i  
+    v  j  t  l  a  s  o  k  a  k  k  i  n  d  e  n  t  a  t  i  o  n  m  i  a  o  b  t  a  x  
 
-    v  l  l  w  w  k  h  r  l  d  u  z  z  z  r  o  a  z  h  v  x  q  l  r  r  c  i  y  j  u  
+    p  w  a  j  j  e  d  o  c  k  p  t  w  v  l  w  y  i  b  w  t  n  u  h  s  z  w  w  p  i  
 
-    o  z  i  n  l  c  r  e  t  h  m  v  k  p  c  z  z  n  l  p  b  o  n  l  o  t  c  a  j  d  
+    t  q  c  x  g  c  n  u  r  q  s  e  s  z  h  l  t  n  i  o  w  x  p  m  f  t  x  k  m  p  
 
-    b  s  s  u  d  o  r  t  w  m  i  e  h  f  s  b  a  f  o  u  a  z  d  j  g  n  e  k  f  r  
+    w  z  n  r  b  f  w  l  b  i  a  x  q  g  s  i  v  p  f  d  a  k  p  u  j  g  s  v  h  o  
 
-    v  n  t  i  h  h  d  e  m  b  l  g  l  i  a  h  r  a  g  t  w  n  a  i  l  u  y  q  v  a  
+    i  q  o  x  j  s  c  a  l  r  m  o  e  x  k  y  l  u  m  r  f  k  p  g  a  a  u  s  t  n  
 
-    v  o  s  n  k  f  o  m  d  g  u  w  z  g  v  v  o  l  i  w  z  d  r  i  a  t  r  u  e  k  
+    y  o  c  h  z  w  l  k  r  w  b  j  m  u  m  p  i  t  a  w  a  r  j  n  b  p  p  s  i  o  
 
-    x  u  z  w  w  l  p  a  j  h  t  e  s  p  a  e  l  s  c  l  o  t  z  f  m  p  j  u  r  w  
+    u  v  n  v  h  j  a  a  u  x  t  q  p  a  r  a  m  e  t  e  r  s  w  i  a  o  z  u  r  m  
 
-    c  y  c  b  b  v  a  r  i  a  b  l  e  f  j  q  y  e  m  i  i  u  l  l  o  i  t  u  a  k  
+    t  y  b  i  a  t  y  z  o  g  u  j  r  y  k  y  m  y  r  e  h  x  b  r  o  e  y  l  o  s  
 
-    w  n  u  z  z  h  q  a  e  m  k  r  h  m  a  l  b  e  f  f  t  p  r  i  v  f  t  f  e  b  
+    u  y  t  y  u  d  p  l  m  s  p  o  o  l  l  i  h  b  a  v  g  o  t  t  y  i  w  r  g  c  
 
-    h  x  o  b  e  k  l  p  l  r  l  l  l  j  k  e  h  g  e  p  e  n  u  f  b  t  d  c  r  u  
+    p  l  e  u  w  d  c  x  u  q  w  i  p  e  x  t  e  d  o  p  z  i  g  s  f  h  p  o  l  m  
 
-    g  r  t  i  t  p  i  d  l  j  f  e  v  b  g  d  m  d  z  e  f  i  d  i  s  l  n  n  u  h  
+    t  i  y  x  l  n  r  v  g  g  n  e  u  t  x  a  j  u  l  v  e  d  u  e  p  c  b  f  a  k  
 
-    n  u  o  b  t  s  s  m  d  p  i  u  v  z  h  t  o  x  t  y  c  m  v  w  g  g  z  v  t  j  
+    u  y  a  o  g  t  p  a  r  t  j  e  p  p  a  f  h  k  r  d  a  c  j  t  b  z  i  o  l  o  
 
-    i  d  q  s  n  c  t  z  f  f  v  n  r  n  c  c  l  i  a  a  o  z  q  m  p  q  t  b  c  w  
+    o  c  g  p  l  v  z  f  e  j  s  q  f  l  m  o  p  x  g  t  x  y  o  r  b  o  j  f  f  u  
 
-    r  c  j  c  i  w  n  l  y  o  o  c  m  j  v  u  r  j  s  r  n  z  r  l  d  k  d  f  u  q  
+    h  i  o  y  s  z  l  g  t  z  v  p  h  n  p  y  l  u  a  k  k  z  g  x  j  w  n  k  z  e  
 
-    t  v  g  m  w  g  u  u  s  r  a  x  e  c  l  p  r  y  z  r  t  t  q  w  a  d  n  n  r  p  
+    c  x  y  t  s  m  e  y  r  y  l  l  w  b  u  k  a  f  y  q  p  t  z  o  r  o  z  j  k  a  
 
-    s  s  p  o  o  l  k  e  f  v  z  i  n  k  s  m  i  d  y  a  i  i  r  u  q  k  c  b  t  h  
+    a  x  m  h  w  r  n  w  p  k  s  o  i  a  d  e  r  u  t  c  u  r  t  s  a  t  a  d  j  f  
 
-    f  e  q  m  g  h  r  u  x  e  t  a  n  e  t  a  c  n  o  c  n  x  f  e  n  q  g  r  s  h  
+    u  o  q  o  w  t  i  w  k  b  j  r  e  e  b  p  e  d  u  k  b  q  e  l  p  o  j  p  o  n  
 
-    n  o  i  t  a  t  n  e  d  n  i  n  k  v  v  n  f  u  t  k  u  m  g  d  x  d  q  e  a  j  
+    a  a  d  n  l  l  u  g  h  y  z  a  z  m  k  g  e  v  h  n  u  t  c  j  m  l  k  q  m  p  
 
-    w  w  c  k  c  t  d  s  h  f  p  m  q  j  f  f  g  w  d  e  e  a  g  h  b  z  a  a  t  j  
-
-    m  z  x  t  z  k  k  v  h  m  l  y  p  n  s  n  z  j  d  g  g  k  w  p  y  a  r  k  a  f  
-
-    s  r  j  h  u  e  f  h  a  z  b  h  v  o  o  u  v  k  c  l  f  e  a  m  k  n  p  z  d  w  
-
-    y  l  a  h  h  h  v  d  n  s  b  w  u  k  n  g  y  i  v  f  n  g  r  g  m  s  h  d  u  i  
+    d  e  k  s  q  m  y  k  c  d  x  k  g  r  w  c  t  r  b  v  b  k  m  v  s  j  c  c  f  b  
 
 
     scratch                 lora                    code                    integer             
@@ -670,69 +638,65 @@ SCRATCH
 ```
 
 
+    m  e  i  d  t  y  p  k  l  k  t  m  l  s  j  w  y  n  t  j  d  j  a  b  l  e  p  o  q  b  
 
-ART
+    g  o  c  d  a  v  k  f  s  x  j  s  e  l  u  b  r  a  s  w  x  j  x  m  l  m  z  x  h  i  
 
+    j  b  w  p  t  c  s  n  c  p  t  g  o  w  j  s  u  l  a  w  r  n  p  z  r  t  u  s  z  t  
 
-    n  t  i  v  s  s  b  t  d  a  w  i  a  h  e  s  c  e  h  x  w  e  j  l  k  e  f  w  c  v  
+    m  r  f  v  h  z  x  t  s  a  r  n  g  t  a  i  r  i  f  p  v  c  r  c  r  n  m  r  a  o  
 
-    h  q  y  p  j  d  u  t  v  z  i  m  d  g  s  o  k  i  i  l  i  s  s  j  f  a  s  k  f  c  
+    s  m  a  k  k  l  d  u  t  z  l  q  s  u  o  l  r  y  k  e  a  c  o  h  a  w  p  v  p  k  
 
-    p  g  a  l  s  p  r  c  i  r  q  t  z  o  s  z  w  k  x  n  g  e  e  i  o  l  m  y  e  i  
+    b  c  q  y  b  i  o  k  t  f  t  c  e  a  r  h  a  n  l  z  t  i  m  a  r  v  l  y  o  p  
 
-    j  k  z  r  g  e  o  a  e  y  u  d  f  m  q  s  s  f  z  a  u  r  r  m  x  z  y  t  r  p  
+    n  o  a  w  h  u  i  m  h  i  e  s  u  x  y  h  p  k  f  k  u  c  n  h  m  b  v  m  h  k  
 
-    w  m  a  e  o  k  o  m  c  e  e  v  p  i  a  j  e  c  t  o  b  u  p  p  v  x  i  d  m  z  
+    j  l  e  t  w  y  m  o  e  i  d  w  s  c  q  j  y  r  p  l  z  x  o  t  a  l  i  l  l  d  
 
-    g  l  t  v  q  j  k  p  a  g  g  q  i  u  p  e  k  c  d  d  j  t  u  d  e  b  h  b  x  g  
+    o  o  b  o  w  a  f  u  s  t  k  r  h  c  x  e  n  c  f  q  w  q  b  k  q  r  v  d  c  m  
 
-    l  j  o  b  p  s  r  o  h  h  n  o  b  w  k  c  i  l  p  h  a  c  o  t  c  a  r  v  e  y  
+    i  r  r  i  u  t  x  t  g  g  z  e  d  g  f  w  u  a  e  s  s  r  h  s  u  r  b  s  g  n  
 
-    t  x  r  n  x  z  t  v  x  o  y  i  z  k  m  f  c  l  d  c  s  i  s  v  x  k  r  r  s  a  
+    d  s  w  e  n  o  t  r  e  g  e  j  h  m  h  s  b  g  u  a  t  r  m  b  r  s  x  i  q  x  
 
-    l  s  o  w  b  q  s  r  a  w  t  r  t  k  q  w  s  p  e  t  h  p  i  w  w  z  w  f  j  n  
+    e  z  j  t  v  n  s  e  z  o  m  m  v  n  x  r  v  h  v  u  m  y  l  u  r  p  k  e  b  m  
 
-    j  d  b  f  o  f  u  j  t  b  m  o  l  e  v  h  l  b  t  y  e  q  b  t  u  g  u  k  y  d  
+    t  p  i  i  g  x  k  x  d  g  o  d  x  j  p  a  a  g  y  f  x  x  f  n  k  m  r  g  n  l  
 
-    y  u  z  f  r  u  i  z  t  m  r  c  s  c  e  x  x  o  o  i  z  r  v  n  t  p  l  s  s  n  
+    d  t  s  j  k  g  e  z  g  q  d  d  m  j  c  y  y  o  b  k  o  g  c  c  m  u  g  b  w  e  
 
-    m  m  q  m  i  k  u  w  x  u  o  f  e  l  d  r  d  i  n  o  d  g  u  m  w  q  d  l  d  u  
+    m  s  b  v  c  v  t  a  c  d  e  s  j  d  a  p  d  a  d  e  s  i  g  n  t  r  v  v  r  e  
 
-    v  v  l  z  y  y  p  l  p  q  m  s  c  a  q  g  g  n  e  z  l  m  p  t  y  z  p  m  i  g  
+    z  u  w  n  w  r  c  g  p  r  r  b  g  f  v  j  b  v  z  v  r  h  m  p  n  e  x  r  g  g  
 
-    q  n  k  n  a  d  f  r  f  a  n  r  s  y  f  h  e  u  x  k  b  n  m  h  p  l  u  n  i  j  
+    d  m  d  c  k  b  h  p  i  a  n  z  a  v  y  z  h  q  m  h  n  s  l  j  j  l  g  h  b  m  
 
-    w  x  k  s  x  w  t  m  l  a  t  o  k  z  l  l  x  c  s  x  q  v  g  n  s  l  t  g  z  b  
+    w  g  n  e  i  g  i  p  l  w  a  l  y  z  b  j  f  f  i  i  o  u  d  t  q  r  o  z  l  p  
 
-    a  x  z  i  w  f  c  f  g  d  l  l  r  i  e  s  q  s  l  z  g  u  r  b  r  m  u  q  x  c  
+    y  k  p  i  m  d  n  f  n  i  r  q  o  s  d  p  r  t  q  n  c  e  h  e  e  w  c  q  s  u  
 
-    e  r  t  a  d  y  q  m  d  a  i  o  d  g  c  p  q  v  c  j  z  v  w  p  l  e  r  c  r  n  
+    w  b  k  k  r  k  g  v  u  n  t  s  q  s  j  l  n  o  a  s  k  w  x  e  y  x  d  f  b  g  
 
-    q  m  s  b  j  l  n  p  x  v  x  c  n  g  n  f  n  a  y  x  f  c  f  m  q  z  d  p  s  c  
+    i  x  w  e  r  z  r  g  v  g  c  c  w  e  m  s  y  s  a  y  p  g  t  g  m  a  t  a  c  w  
 
-    x  z  a  x  w  m  k  c  m  u  j  i  x  s  w  s  x  b  t  w  q  g  c  k  q  y  e  o  k  l  
+    m  n  y  i  a  n  t  s  r  g  a  q  f  r  b  s  e  l  p  q  h  i  y  s  q  b  l  c  a  u  
 
-    n  u  y  o  d  d  t  a  a  k  w  f  r  f  b  u  b  s  y  s  s  f  g  v  n  g  s  r  m  s  
+    w  w  m  n  f  w  h  a  d  u  r  t  o  u  x  s  i  p  u  e  n  x  t  l  l  n  l  c  r  f  
 
-    r  w  w  x  b  r  r  t  p  a  v  b  n  e  c  v  j  t  x  c  z  m  u  l  p  r  i  g  z  t  
+    m  c  t  e  x  y  v  s  j  c  t  a  c  t  e  g  z  l  m  g  y  a  x  v  c  y  i  q  v  v  
 
-    a  d  x  u  a  t  o  s  r  t  r  j  k  h  b  v  k  r  b  h  k  x  g  b  z  n  g  n  j  a  
+    l  w  v  e  s  l  n  o  l  a  s  f  n  c  l  d  r  t  c  e  t  p  n  g  i  k  v  a  e  m  
 
-    m  i  i  y  l  l  n  d  d  u  z  g  y  g  a  r  v  a  b  j  v  r  k  s  t  j  n  i  s  t  
+    a  i  p  r  z  o  t  s  o  v  b  z  z  i  x  j  d  a  x  u  f  q  i  p  h  y  a  g  g  n  
 
-    m  k  k  m  l  h  o  y  s  t  o  a  r  k  p  b  v  c  n  u  x  k  e  t  h  i  d  h  e  u  
+    c  c  v  s  d  v  b  b  z  a  a  i  e  p  u  g  r  a  e  m  t  r  k  k  x  z  f  y  p  m  
 
-    b  e  c  m  o  l  s  h  t  n  o  e  j  u  l  l  w  t  s  e  r  b  f  t  z  w  m  c  l  e  
+    i  t  g  t  j  m  l  o  n  x  h  k  v  b  p  d  s  k  f  b  h  d  k  k  v  e  l  l  u  p  
 
-    q  h  j  k  n  f  y  l  a  u  o  o  f  n  a  l  r  b  p  i  h  e  b  r  d  q  z  t  c  x  
+    b  t  x  c  h  b  w  l  q  j  w  d  j  h  s  u  g  q  l  n  f  b  h  i  s  i  c  s  i  b  
 
-    b  l  a  l  a  z  h  p  q  s  x  g  l  v  b  m  y  e  s  a  o  c  e  p  r  v  o  e  y  y  
-
-    e  l  s  r  c  w  s  k  p  j  b  r  o  y  f  r  o  q  m  l  i  b  h  n  f  q  j  k  w  r  
-
-    t  h  s  b  y  a  e  n  j  e  t  m  e  f  k  h  b  z  m  q  a  n  v  p  i  e  z  s  e  n  
-
-    f  k  r  d  d  n  c  o  o  b  d  l  f  g  b  w  h  q  b  g  m  q  t  b  b  e  e  h  s  l  
+    k  e  y  j  s  p  r  r  c  p  z  y  u  n  z  s  j  t  m  n  d  x  c  n  c  e  j  c  v  w  
 
 
     art                     reenie                  paint                   abstract            
@@ -749,69 +713,65 @@ ART
 ```
 
 
+    h  o  c  w  k  j  i  y  x  s  z  p  y  n  n  d  z  f  n  h  z  f  c  w  f  t  k  d  t  j  
 
-MUSIC
+    b  n  n  w  o  n  h  j  a  h  g  s  z  y  w  x  e  l  b  t  q  t  y  w  e  r  p  b  a  p  
 
+    s  d  r  j  i  g  r  l  y  d  d  j  m  g  f  w  t  e  n  o  r  u  y  z  w  i  v  r  i  p  
 
-    d  f  p  b  l  x  u  q  c  x  c  x  o  l  o  s  e  e  e  p  i  d  p  f  s  t  s  q  h  e  
+    q  y  d  w  m  l  e  l  o  i  c  g  c  t  k  i  k  e  e  l  a  c  s  m  l  w  e  l  i  q  
 
-    m  t  b  c  p  y  a  m  d  n  n  l  c  k  y  q  b  j  f  v  j  u  m  p  t  j  h  s  z  t  
+    e  z  h  p  k  v  g  c  e  a  u  s  l  f  b  f  m  z  z  e  l  e  i  h  f  f  n  o  c  e  
 
-    e  q  e  k  e  h  c  b  f  p  b  t  d  w  f  y  h  n  n  o  r  a  i  o  p  j  w  c  n  o  
+    q  m  f  t  i  u  v  j  o  q  e  v  j  e  u  u  v  p  y  x  q  r  c  j  y  g  i  v  h  r  
 
-    f  x  b  w  i  i  r  s  p  o  n  d  d  g  j  c  t  w  p  x  y  n  o  m  r  a  h  z  k  n  
+    f  f  l  r  p  k  l  u  e  y  a  g  g  d  r  n  u  v  k  z  a  r  m  c  n  q  l  y  o  m  
 
-    q  q  p  e  w  p  h  u  h  y  x  q  b  u  t  e  n  u  t  d  c  b  n  c  g  h  l  w  f  o  
+    a  a  j  e  w  z  h  k  r  d  m  c  p  t  k  w  t  a  h  s  s  q  x  r  a  b  o  o  r  n  
 
-    o  q  l  m  c  i  t  k  y  s  x  x  g  i  u  e  z  j  p  w  z  n  l  i  s  h  o  d  d  w  
+    g  r  k  c  p  k  y  u  s  o  w  h  s  p  y  t  p  a  l  r  h  y  t  h  m  m  i  q  u  r  
 
-    f  b  f  p  e  t  i  y  b  b  v  u  p  m  w  i  f  n  j  y  y  d  h  s  o  g  o  l  i  a  
+    j  k  r  d  d  o  u  n  t  l  u  n  a  y  c  k  p  l  d  d  g  s  l  l  y  x  v  i  s  v  
 
-    h  t  x  n  k  f  b  j  r  m  n  w  q  a  f  o  n  a  i  p  g  u  t  u  y  f  m  d  u  y  
+    x  v  t  e  z  g  o  c  o  e  i  x  l  a  l  i  p  y  c  l  y  l  c  v  m  u  h  n  m  q  
 
-    w  l  e  q  r  k  q  k  k  h  k  c  k  g  z  l  n  l  q  u  k  c  d  m  e  c  o  d  z  t  
+    q  z  c  m  r  l  s  e  o  m  h  l  n  a  a  m  m  e  g  t  n  s  p  b  v  b  u  b  o  s  
 
-    l  t  l  p  z  c  q  h  c  n  h  m  y  c  b  g  o  n  i  u  h  v  r  c  v  d  c  c  l  p  
+    t  g  y  p  o  x  q  f  p  w  r  f  z  g  g  c  t  z  m  j  a  o  k  t  s  q  t  k  e  t  
 
-    r  b  u  d  m  u  g  h  h  h  w  q  j  r  i  s  k  t  c  o  u  j  r  a  z  d  w  y  d  h  
+    r  i  c  s  g  i  o  a  e  u  p  a  w  l  n  l  t  v  k  t  y  d  b  g  t  y  t  h  l  w  
 
-    c  b  f  c  m  u  m  e  e  s  a  i  e  c  y  r  a  b  r  l  u  w  y  j  r  l  d  f  v  r  
+    u  g  z  d  g  t  l  a  h  z  l  x  h  u  h  n  v  n  k  o  r  c  r  c  s  b  t  c  e  u  
 
-    o  a  h  q  v  y  r  j  l  z  e  j  o  r  h  r  d  u  h  w  y  v  b  r  m  o  q  g  c  z  
+    m  u  f  k  i  z  x  t  c  a  i  w  b  h  x  f  u  g  q  n  h  g  t  k  l  l  v  g  u  k  
 
-    z  m  a  p  g  p  i  t  l  c  e  x  p  k  c  s  s  e  y  n  u  o  l  l  l  e  g  z  y  f  
+    p  h  r  t  q  j  p  v  n  m  c  h  e  l  l  o  r  u  c  e  b  a  n  i  c  y  k  p  x  z  
 
-    y  m  r  b  j  h  c  z  o  r  n  e  v  f  w  j  k  i  u  k  c  x  j  e  w  n  r  i  e  k  
+    e  o  q  d  k  g  a  b  j  f  z  u  o  k  u  b  l  w  j  j  e  g  u  u  k  q  q  y  g  g  
 
-    e  e  y  m  e  u  k  x  a  l  i  q  g  z  n  s  y  j  h  y  k  b  m  f  u  o  m  f  w  b  
+    t  d  p  b  s  z  i  g  e  m  p  i  a  n  o  o  b  y  x  b  j  u  g  h  x  j  j  m  m  r  
 
-    k  g  w  t  p  e  p  e  g  w  n  s  s  s  x  c  t  f  e  z  d  d  j  p  w  t  z  a  d  b  
+    u  l  f  n  f  b  g  k  p  t  m  d  r  l  b  w  i  g  b  u  l  o  r  w  w  n  s  k  b  o  
 
-    n  c  x  l  q  k  q  m  l  l  s  l  q  o  r  c  a  u  j  w  t  w  f  k  r  k  t  x  m  k  
+    h  z  i  b  k  s  x  b  u  y  v  t  f  z  w  p  u  g  h  s  e  f  x  m  s  m  t  l  w  c  
 
-    r  i  b  c  c  p  a  j  m  k  t  j  d  n  g  g  m  q  x  h  x  t  v  x  l  e  g  j  d  a  
+    g  h  c  w  f  i  e  t  g  l  h  z  j  f  s  i  x  g  s  o  z  h  m  u  w  r  c  a  p  v  
 
-    n  u  l  k  p  a  l  s  r  a  r  h  y  g  w  r  u  q  o  p  r  l  f  r  n  w  x  m  e  t  
+    e  w  h  d  k  q  u  n  h  y  h  j  n  x  t  w  p  e  f  a  z  e  c  o  t  y  p  q  r  r  
 
-    b  r  o  o  l  p  i  b  e  i  u  r  u  w  n  d  q  i  e  z  n  c  n  o  v  m  c  q  g  q  
+    n  z  m  g  v  n  a  k  b  r  f  r  f  a  v  h  r  o  t  h  j  l  o  t  z  u  z  d  b  e  
 
-    d  z  l  z  i  i  p  b  a  b  m  s  b  k  k  n  j  l  d  w  k  n  r  h  z  t  y  u  s  h  
+    n  l  x  a  e  q  z  x  i  t  w  b  r  w  f  m  l  e  k  o  y  w  x  w  i  x  v  e  c  q  
 
-    z  k  o  z  i  v  w  x  d  v  e  w  i  v  p  q  m  k  i  s  l  n  v  x  s  n  w  n  e  m  
+    y  g  c  m  i  l  d  j  j  b  v  q  f  u  y  b  q  i  a  u  n  g  n  o  s  p  e  j  x  p  
 
-    y  i  k  t  j  p  u  o  x  q  n  f  c  e  e  z  r  h  v  r  l  w  b  p  s  v  j  s  h  w  
+    v  s  i  m  w  s  y  n  w  n  w  z  o  a  r  a  c  s  e  v  s  s  y  w  p  k  x  z  r  e  
 
-    z  i  s  b  p  u  v  w  y  k  t  r  n  q  j  c  w  l  s  b  w  v  z  m  a  f  o  d  i  n  
+    m  l  s  c  u  a  g  z  d  q  e  t  s  v  h  s  h  k  e  a  z  b  s  r  s  q  v  n  k  t  
 
-    r  l  z  i  x  i  i  s  s  c  b  h  m  t  j  p  i  r  k  y  h  z  d  v  b  n  m  g  e  g  
+    o  z  u  k  s  i  k  t  u  v  a  a  c  l  y  j  g  w  o  b  k  z  o  a  b  t  o  e  j  y  
 
-    m  w  g  h  u  c  t  n  r  e  y  y  x  d  m  y  f  w  u  a  f  u  k  m  a  f  o  l  f  w  
-
-    u  z  w  o  h  g  l  a  h  e  t  t  e  i  e  f  z  h  o  j  w  f  u  k  r  d  a  e  o  y  
-
-    t  f  l  b  q  r  g  x  p  t  l  h  m  o  r  n  e  w  r  h  e  f  m  y  j  c  z  q  t  z  
-
-    p  v  r  o  s  e  k  r  a  e  u  m  x  t  f  w  n  n  g  c  w  g  f  t  s  k  r  p  n  p  
+    x  b  m  s  k  i  w  c  x  j  s  b  l  b  p  m  h  a  v  z  u  g  p  r  b  u  x  r  f  u  
 
 
     music                   gemma                   note                    rhythm              
@@ -829,69 +789,65 @@ MUSIC
 ```
 
 
+    c  d  v  i  w  l  v  j  b  w  p  d  c  g  x  g  n  i  t  e  e  m  g  n  i  n  r  o  m  w  
 
-LARAINE
+    i  a  y  f  y  v  f  t  q  f  w  y  u  e  m  i  n  a  c  u  i  v  s  h  n  j  s  l  y  p  
 
+    f  v  v  l  u  i  x  q  r  d  e  k  r  s  r  j  t  a  s  p  p  g  i  l  w  h  m  o  z  o  
 
-    l  p  k  n  h  q  r  a  e  r  f  i  n  z  p  i  y  o  p  x  a  f  p  q  h  i  a  w  x  q  
+    d  i  c  k  g  w  n  u  t  h  v  q  i  d  z  f  z  z  k  h  w  k  i  l  a  w  o  k  l  s  
 
-    c  r  g  y  w  i  l  e  x  l  v  v  b  q  a  l  q  d  o  v  x  o  z  x  k  e  w  k  l  y  
+    z  n  t  j  m  e  v  m  u  e  p  x  o  g  b  f  o  s  g  x  u  f  d  j  l  s  a  s  g  t  
 
-    e  e  f  a  i  h  n  w  o  i  z  w  n  j  c  e  f  s  s  s  l  c  g  i  r  m  i  v  y  t  
+    t  c  p  g  d  y  c  k  s  w  b  j  s  j  f  m  r  s  z  b  o  i  s  f  k  y  r  u  r  o  
 
-    b  a  k  a  n  p  b  i  b  l  l  b  a  u  w  k  q  l  t  l  q  h  r  a  u  i  z  y  w  c  
+    g  i  d  r  v  y  x  e  a  a  s  a  i  k  r  o  w  t  s  e  b  r  u  o  y  o  d  q  n  f  
 
-    x  d  r  v  g  e  j  d  d  a  i  w  p  u  m  r  k  q  m  d  y  f  y  y  q  k  o  t  q  r  
+    e  r  a  a  p  m  l  u  k  q  d  y  t  r  p  n  n  n  e  l  u  d  e  h  c  s  t  o  g  f  
 
-    a  i  z  f  x  l  m  c  n  a  u  l  e  o  k  j  o  h  a  x  e  e  h  x  w  m  k  i  u  e  
+    t  g  a  l  b  a  d  w  x  d  e  h  y  u  n  y  e  n  t  m  c  n  p  h  u  h  j  k  h  i  
 
-    x  n  p  j  k  s  a  t  a  t  t  f  l  c  w  g  a  h  s  v  o  t  p  t  b  v  b  s  w  s  
+    y  t  b  t  m  i  d  k  d  w  u  s  h  c  f  t  c  g  g  q  i  i  x  o  f  o  t  n  w  c  
 
-    f  g  c  b  l  g  e  t  s  n  m  k  u  e  d  i  i  a  t  j  w  f  e  y  l  b  e  o  c  i  
+    d  u  h  m  j  w  e  e  j  a  a  z  x  d  r  t  q  h  y  s  o  t  r  l  k  i  w  o  v  e  
 
-    p  t  g  a  r  d  e  n  p  f  o  f  p  i  o  n  a  f  e  u  l  o  y  c  r  u  g  i  l  l  
+    i  b  y  g  x  k  t  x  p  b  v  j  b  a  m  r  i  a  r  n  w  i  k  c  s  e  n  w  a  b  
 
-    u  i  i  c  n  i  v  a  d  p  j  c  w  c  e  g  j  p  r  i  z  d  h  g  t  a  y  r  u  i  
+    y  e  d  m  i  a  r  t  c  r  s  b  g  h  d  o  b  v  e  x  o  x  e  c  l  b  v  a  z  j  
 
-    x  m  e  b  l  i  l  k  u  r  n  w  q  k  k  e  z  t  g  k  n  o  o  t  f  i  c  u  e  e  
+    i  v  g  b  i  l  z  e  y  g  w  r  z  e  p  t  n  e  m  l  r  n  g  u  a  e  k  a  t  m  
 
-    j  e  p  m  r  e  m  i  t  k  c  a  n  s  r  r  b  h  n  z  p  t  f  g  d  z  v  c  s  n  
+    c  g  h  l  i  a  f  k  q  b  e  s  t  d  w  q  r  a  y  z  i  f  s  f  r  n  t  o  w  b  
 
-    l  j  o  q  r  i  e  x  i  y  v  p  k  j  o  b  t  a  o  s  y  z  r  k  x  h  u  e  t  c  
+    o  f  r  s  s  e  u  l  c  d  i  e  j  y  v  z  s  v  l  a  a  y  u  s  o  t  s  i  r  i  
 
-    z  i  z  e  j  c  u  u  n  s  w  p  m  e  w  r  n  g  h  u  x  o  e  o  q  z  b  f  x  e  
+    n  h  h  e  j  x  s  t  n  r  c  g  p  z  l  x  p  a  r  i  b  w  e  s  q  w  e  t  m  f  
 
-    f  f  q  s  g  m  a  q  v  i  a  b  m  m  t  e  u  s  l  n  j  m  d  o  z  a  q  f  v  a  
+    p  a  y  c  m  m  d  i  d  t  i  i  i  a  y  k  e  a  d  p  s  x  r  a  n  v  m  m  u  e  
 
-    c  f  a  r  d  p  v  a  e  p  w  t  r  i  s  a  w  s  k  p  h  q  a  f  l  d  t  i  p  e  
+    o  o  s  i  j  n  k  r  i  c  t  j  p  n  e  w  l  s  x  e  c  a  r  l  f  l  i  q  p  f  
 
-    u  s  e  s  c  o  n  m  s  n  n  j  e  t  e  d  b  a  z  r  y  s  e  h  q  d  x  p  o  n  
+    s  f  q  o  s  k  p  v  r  h  e  p  m  t  g  t  h  u  e  n  u  t  c  g  w  d  t  s  u  n  
 
-    w  s  y  b  g  d  i  o  t  e  z  e  e  e  b  m  j  l  u  r  i  r  r  a  f  d  j  q  s  i  
+    t  u  n  h  g  b  e  b  c  j  j  s  c  c  e  e  d  j  x  g  j  j  l  g  k  t  g  z  k  a  
 
-    f  e  v  t  w  s  k  r  i  t  v  d  m  l  r  a  d  g  y  l  k  h  y  c  e  e  t  x  t  a  
+    m  t  i  c  z  v  r  c  w  x  u  q  g  w  m  t  r  f  h  f  v  y  o  n  o  r  n  i  y  e  
 
-    g  q  a  w  w  h  x  n  g  r  n  j  g  c  u  n  d  g  a  e  q  j  r  c  z  t  o  l  o  r  
+    a  r  e  d  a  e  r  y  r  e  t  s  y  m  r  q  t  b  o  y  i  w  d  i  i  t  i  f  g  r  
 
-    y  x  g  t  y  s  z  i  a  a  i  g  r  r  o  g  o  n  y  c  o  n  e  m  u  a  g  b  f  a  
+    s  l  a  j  a  g  f  i  l  h  n  z  j  x  n  u  d  q  r  u  c  e  x  y  h  z  d  n  i  a  
 
-    q  f  o  c  u  c  p  n  t  g  n  x  p  i  y  c  o  i  x  i  z  j  t  f  h  i  x  d  f  l  
+    t  m  r  f  z  x  z  d  p  q  x  h  u  x  h  e  a  o  x  e  m  i  l  f  m  w  a  n  c  y  
 
-    m  a  h  k  m  h  y  g  i  r  n  s  d  c  o  m  q  y  e  o  x  o  s  g  d  l  p  n  i  l  
+    e  c  n  e  i  l  i  s  e  r  i  n  e  l  c  y  x  r  x  b  a  y  z  i  u  w  e  q  v  e  
 
-    b  w  g  u  t  e  r  m  o  e  z  w  a  p  d  s  l  f  r  h  i  x  y  z  q  h  c  w  c  b  
+    r  s  b  h  n  o  i  t  a  g  i  t  s  e  v  n  i  m  n  s  g  d  e  n  t  i  r  z  w  o  
 
-    n  b  m  e  c  d  g  e  n  d  z  p  e  b  h  s  n  i  o  c  o  a  m  z  k  j  f  a  e  d  
+    m  q  j  i  y  b  e  k  s  e  i  n  c  d  i  y  l  s  h  n  v  t  m  g  b  z  v  a  z  j  
 
-    n  l  q  q  k  u  t  e  t  n  e  e  d  m  n  y  a  n  l  k  s  f  w  l  w  a  f  l  y  m  
+    z  o  x  w  a  a  o  f  u  m  h  u  q  s  a  n  d  b  o  x  h  u  s  a  f  w  h  i  s  n  
 
-    o  h  c  k  s  l  t  t  h  i  z  o  o  w  s  w  n  g  q  a  d  b  j  m  y  g  o  k  k  v  
-
-    u  c  u  l  y  e  y  i  o  k  p  i  o  n  e  e  r  a  q  x  u  j  j  d  x  c  x  w  g  c  
-
-    q  i  i  d  p  p  i  n  x  a  z  v  t  k  s  p  y  m  t  b  c  k  e  m  q  p  p  f  a  w  
-
-    o  r  i  b  l  v  r  g  n  w  w  u  p  v  l  x  b  s  p  b  v  p  q  s  e  p  u  y  e  u  
+    c  q  z  r  m  b  x  r  v  n  q  a  z  c  e  d  q  s  b  e  r  s  g  m  n  q  m  i  j  s  
 
 
     laraine                 kindergarten            gingerbreadman          investigation       
