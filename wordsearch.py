@@ -9,13 +9,13 @@ board = []
 #words = ["cat", "dog"]
 
 # humanities
-words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotypes", "nativeamericans", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
+#words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotypes", "nativeamericans", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
 
 # math
-# words = ["cat", "dog"]
+# words = ["math", "addition", "subtraction", "multiplication", "division", "negitive", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorazation", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "doubel", "triple", "single", "quadruple"]
 
 # science
-# words = ["cat", "dog"]
+# words = ["chemist", "science", "experement", "mixture", "plant", "bird", "flight", "stem", "steam", "recation", "molecule", "adom", "neculer", "power", "mass", "light", "sound", "water", "waves, "tension", "refraction", "defraction"]
 
 # words = ["cat", "dog"]
 
@@ -29,7 +29,7 @@ words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "ange
 # words = ["cat", "dog"]
 
 # head
-# words = ["cat", "dog"]
+#words = ["cumunity", "forts", "mansion", "teachers", "colaberation", "leaders", "helpers", "leadership", "campus", "grationsness", "spirt", "kind", "thankfull", "nueva", "care", "idea", "exclusion", "humor", "wisdom", "ilab", "sel", "swi"]
 
 # laraine
 # words = ["cat", "dog"]
