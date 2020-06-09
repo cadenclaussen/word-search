@@ -50,6 +50,7 @@ def printBoard():
     printWords()
     print()
 
+
 def printWords():
     count = 0
     for word in words:
