@@ -36,7 +36,7 @@ words = ["cat", "dog"]
 # words = ["cat", "dog"]
 
 
-directions = ["right"]
+directions = ["right", "left", "up", "down", "up right", "up left", "down right", "down left"]
 
 
 def main():
@@ -85,13 +85,17 @@ def isValid(word, row, column, direction):
         if board[row][column] != ".":
             if board[row][column] != ch:
                 return False
-        column = column + 1
+        updateDirectionList = updateDirection(row, column, direction)
+        row = updateDirectionList[0]
+        column = updateDirectionList[1]
     return True
 
 def insertWord(word, row, column, direction):
     for ch in word:
         board[row][column] = ch.upper()
-        column = column + 1
+        updateDirectionList = updateDirection(row, column, direction)
+        row = updateDirectionList[0]
+        column = updateDirectionList[1]
 
 def replaceDot():
     letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
@@ -101,4 +105,33 @@ def replaceDot():
             if board[row][column] == ".":
                 board[row][column] = letterPut
 
+def updateDirection(row, column, direction):
+    if direction == "right":
+        column = column + 1
+        return [row, column]
+    elif direction == "left":
+        column = column - 1
+        return [row, column]
+    elif direction == "up":
+        row = row - 1
+        return [row, column]
+    elif direction ==  "down":
+        row = row + 1
+        return [row, column]
+    elif direction == "up right":
+        row = row - 1
+        column = column + 1
+        return [row, column]
+    elif direction == "up left":
+        row = row - 1
+        column = column - 1
+        return [row, column]
+    elif direction == "down right":
+        row = row + 1
+        column = column + 1
+        return [row, column]
+    elif direction == "down left":
+        row = row + 1
+        column = column - 1
+        return [row, column]
 main()
