@@ -1,15 +1,15 @@
 import random
 
 
-boardSize = 10
+boardSize = 30
 board = []
 
 
 # test
-words = ["cat", "dog"]
+#words = ["cat", "dog"]
 
 # humanities
-# words = [ "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
+words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotypes", "nativeamericans", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
 
 # math
 # words = ["cat", "dog"]
@@ -17,7 +17,6 @@ words = ["cat", "dog"]
 # science
 # words = ["cat", "dog"]
 
-# scratch
 # words = ["cat", "dog"]
 
 # sel
@@ -44,7 +43,7 @@ def main():
     printBoard()
     insertWords()
     printBoard()
-#    replaceDot()
+    replaceDot()
     printBoard()
 
 
@@ -57,9 +56,17 @@ def initilizeBoard():
 def printBoard():
     print()
     print()
+    print("    ", end="")
+    for column in range(boardSize):
+        print(column % 10, end="   ")
+    print()
+    print()
     for row in range(boardSize):
         for column in range(boardSize):
-            print(board[row][column], end=" ")
+            if (column == 0):
+                print(row % 10, end="   ")
+            print(board[row][column], end="   ")
+        print()
         print()
     print()
     print()
@@ -67,8 +74,8 @@ def printBoard():
 def insertWords():
     for word in words:
         while True:
-            row = random.randint(0, boardSize - 1)
-            column = random.randint(0, boardSize - 1)
+            row = random.randint(0, (boardSize - 1))
+            column = random.randint(0, (boardSize - 1))
             direction = random.choice(directions)
             valid = isValid(word, row, column, direction)
             if valid == False:
@@ -78,21 +85,28 @@ def insertWords():
 
 def isValid(word, row, column, direction):
     for ch in word:
-        if column >= boardSize:
+
+        if row >= boardSize or row < 0:
+            print("Invalid: ", word, row, column, direction)
             return False
-        if row >= boardSize:
+        if column >= boardSize or column < 0:
+            print("Invalid: ", word, row, column, direction)
             return False
+
         if board[row][column] != ".":
             if board[row][column] != ch:
+                print("Invalid: ", word, row, column, direction)
                 return False
+
         updateDirectionList = updateDirection(row, column, direction)
         row = updateDirectionList[0]
         column = updateDirectionList[1]
+
     return True
 
 def insertWord(word, row, column, direction):
     for ch in word:
-        board[row][column] = ch.upper()
+        board[row][column] = ch
         updateDirectionList = updateDirection(row, column, direction)
         row = updateDirectionList[0]
         column = updateDirectionList[1]
@@ -134,4 +148,6 @@ def updateDirection(row, column, direction):
         row = row + 1
         column = column - 1
         return [row, column]
+
+
 main()
