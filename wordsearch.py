@@ -5,28 +5,53 @@ boardSize = 30
 board = []
 
 
-words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "greatdepression", "segregation", "slavery", "civilrights", "phoenixes", "rainbowsharks", "greencard" ]
-# words = [ "math", "addition", "subtraction", "multiplication", "division", "negative", "kenken", "riddles", "wordproblems", "mathcounts", "moens", "divisor", "setpuzzles", "equations", "decimals", "mixednumbers", "improperfraction", "powers", "squareroots", "factors", "multiples", "prime", "algebra", "distributive", "commutative", "associative", "exponents", "negatives", "fractions", "numerator", "denominator", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ]
-# words = [ "science", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stemfair", "steamday", "data", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction", "solder", "arduino", "distance", "rate", "time" ]
-# words = [ "sel", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ]
-# words = [ "swi", "noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "suffix", "compoundword", "prefix", "root", "greek", "latin", "middleenglish", "oldenglish", "final", "medial", "initial", "vowel", "script", "grapheme", "phoneme", "syllable" ]
-# words = [ "exercise", "running", "pushharder", "healthy", "diet", "food", "jumprope", "sports", "football", "basketball", "soccer", "hockey", "climbing", "skiing", "swimming", "biking", "muscles", "bones", "body", "pingpong", "tennis", "persistence", "dodgeball", "thunderball", "ctf", "nutrition", "fiber", "lowsugar", "calories" ]
-# words = [ "nueva", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ]
-# words = [ "scratch", "code", "integer", "string", "float", "if", "for", "while", "true", "false", "variable", "list", "listoflists", "array", "datastructure", "function", "parameters", "indentation", "python", "javascript", "arduino", "concatenate", "algorithm", "logic", "loops", "break", "continue", "pixel", "sprite", "input", "output" ]
-# words = [ "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ]
-
+puzzles = [
+    [ "sam", "samantha", "damon", "liane", "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "greatdepression", "segregation", "slavery", "civilrights", "phoenixes", "rainbowsharks", "greencard" ],
+    [ "emily", "math", "addition", "subtraction", "multiplication", "division", "negative", "kenken", "riddles", "wordproblems", "mathcounts", "moens", "divisor", "setpuzzles", "equations", "decimals", "mixednumbers", "improperfraction", "powers", "squareroots", "factors", "multiples", "prime", "algebra", "distributive", "commutative", "associative", "exponents", "negatives", "fractions", "numerator", "denominator", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ],
+    [ "elena", "amy", "science", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stemfair", "steamday", "data", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction", "solder", "arduino", "distance", "rate", "time" ],
+    [ "lisa", "sel", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ],
+    [ "rebecca", "swi", "noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "suffix", "compoundword", "prefix", "root", "greek", "latin", "middleenglish", "oldenglish", "final", "medial", "initial", "vowel", "script", "grapheme", "phoneme", "syllable" ],
+    [ "zubin", "pe", "exercise", "running", "pushharder", "healthy", "diet", "food", "jumprope", "sports", "football", "basketball", "soccer", "hockey", "climbing", "skiing", "swimming", "biking", "muscles", "bones", "body", "pingpong", "tennis", "persistence", "dodgeball", "thunderball", "ctf", "nutrition", "fiber", "lowsugar", "calories" ],
+    [ "diane", "megan", "nueva", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ],
+    [ "lora", "scratch", "code", "integer", "string", "float", "if", "for", "while", "true", "false", "variable", "list", "listoflists", "array", "datastructure", "function", "parameters", "indentation", "python", "javascript", "arduino", "concatenate", "algorithm", "logic", "loops", "break", "continue", "pixel", "sprite", "input", "output" ],
+    [ "laraine", "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ],
+]
 
 directions = [ "right", "left", "up", "down", "up right", "up left", "down right", "down left" ]
 
 
 def main():
-    initilizeBoard()
-    insertWords()
-    replaceDot()
-    printBoard()
+    for words in puzzles:
+        initilizeBoard()
+        insertWords(words)
+        printHeader(words[0])
+        printBoard()
+        replaceDot()
+        printBoard()
+        printWords(words)
+        printFooter()
+
+
+def printHeader(title):
+    print()
+    print()
+    print()
+    print("# ", title.upper())
+    print()
+    print("```")
+    print()
+    print()
+    print()
+    print(title.upper())
+
+
+def printFooter():
+    print("```")
 
 
 def initilizeBoard():
+    global board
+    board = []
     for row in range(boardSize):
         board.append([])
         for _ in range(boardSize):
@@ -41,17 +66,15 @@ def printBoard():
             if (column == 0):
                 print("    ", end="")
             if (board[row][column] == '.'):
-                print(" ", end="  ")
+                print(".", end="  ")
             else:
-                print(board[row][column], end="    ")
+                print(board[row][column], end="  ")
         print()
         print()
-    print()
-    printWords()
-    print()
 
 
-def printWords():
+def printWords(words):
+    print()
     count = 0
     for word in words:
         print("   ", word.ljust(20), end="")
@@ -59,8 +82,10 @@ def printWords():
         if count == 5:
             print();
             count = 0
+    print()
 
-def insertWords():
+
+def insertWords(words):
     for word in words:
         while True:
             row = random.randint(0, (boardSize - 1))
