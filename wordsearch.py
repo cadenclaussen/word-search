@@ -1,22 +1,23 @@
 import random
 
 
-boardSize = 30
-board = []
-
-
 puzzles = [
     [ "humanities", "sam", "samantha", "damon", "liane", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "greatdepression", "segregation", "slavery", "civilrights", "phoenixes", "rainbowsharks", "greencard" ],
     [ "math", "emily", "addition", "subtraction", "multiplication", "division", "negative", "kenken", "riddles", "wordproblems", "mathcounts", "moens", "divisor", "setpuzzles", "equations", "decimals", "mixednumbers", "improperfraction", "powers", "squareroots", "factors", "multiples", "prime", "algebra", "distributive", "commutative", "associative", "exponents", "negatives", "fractions", "numerator", "denominator", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ],
-    [ "science", "elena", "amy", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stemfair", "steamday", "data", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction", "solder", "arduino", "distance", "rate", "time" ],
-    [ "sel", "lisa", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ],
+    [ "science", "elena", "amy", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stemfair", "steamday", "data", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "soundwaves", "tension", "refraction", "defraction", "solder", "arduino", "distance", "rate", "time" ],
+    [ "sel", "lisa", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "zentangle", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ],
     [ "swi", "rebecca", "noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "suffix", "compoundword", "prefix", "root", "greek", "latin", "middleenglish", "oldenglish", "final", "medial", "initial", "vowel", "script", "grapheme", "phoneme", "syllable" ],
     [ "pe", "zubin", "exercise", "running", "pushharder", "healthy", "diet", "food", "jumprope", "sports", "football", "basketball", "soccer", "hockey", "climbing", "skiing", "swimming", "biking", "muscles", "bones", "body", "pingpong", "tennis", "persistence", "dodgeball", "thunderball", "ctf", "nutrition", "fiber", "lowsugar", "calories" ],
     [ "nueva", "diane", "megan", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ],
     [ "scratch", "lora", "code", "integer", "string", "float", "if", "for", "while", "true", "false", "variable", "list", "listoflists", "array", "datastructure", "function", "parameters", "indentation", "python", "javascript", "arduino", "concatenate", "algorithm", "logic", "loops", "break", "continue", "pixel", "sprite", "input", "output" ],
+    [ "art", "reenie", "paint", "abstract", "modern", "clay", "sculpture", "tone", "statue", "colors", "carve", "brush", "design", "greetingcards", "drawing", "sketching", "pictures", "photos" ],
+    [ "music", "gemma", "note", "rhythm", "beat", "song", "tone", "scale", "chorus", "instrument", "piano", "violin", "bass", "guitar", "chello", "trumpet", "melody", "harmony", "tune", "tenor", "pitch" ],
     [ "laraine", "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ],
 ]
 
+
+boardSize = 30
+board = []
 directions = [ "right", "left", "up", "down", "up right", "up left", "down right", "down left" ]
 
 
@@ -25,7 +26,6 @@ def main():
         initilizeBoard()
         insertWords(words)
         printHeader(words[0])
-        printBoard()
         replaceDot()
         printBoard()
         printWords(words)
