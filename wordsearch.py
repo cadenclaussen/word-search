@@ -21,16 +21,16 @@ board = []
 # words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
 
 # swi
-# words = ["cat", "dog"]
+# words = ["noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "sufix", "compoundword", "swi", "prefix", "root", "greek", "latin", "middleinglish", "oldinglish", "final", "meadel", "inital", "vowel"]
 
 # pe
-# words = ["cat", "dog"]
+# words = ["exersize", "running", "harder", "healthy", "diet", "food", "jumpropes", "sports", "football", "basketball", "socer", "hokey", "climbing", "skiing", "swiming", "mucels", "bones", "body", "pingpong", "tinnes"]
 
 # head
-#words = ["cumunity", "forts", "mansion", "teachers", "colaberation", "leaders", "helpers", "leadership", "campus", "grationsness", "spirt", "kind", "thankfull", "nueva", "care", "idea", "exclusion", "humor", "wisdom", "ilab", "sel", "swi", "maverics"]
+# words = ["cumunity", "forts", "mansion", "teachers", "colaberation", "leaders", "helpers", "leadership", "campus", "grationsness", "spirt", "kind", "thankfull", "nueva", "care", "idea", "exclusion", "humor", "wisdom", "ilab", "sel", "swi", "maverics"]
 
 # laraine
-# words = ["kindergarden", "gingerbreadman", "investagation", "magnifiengglass", "detective", "klawn", "choice", "mysteryreader", "circletime", "devenchi", "monalisa", "postoffice", "sandbox", "garden", "teacher", "joeyarea", "", "", "", "", "", ""]
+# words = ["kindergarden", "gingerbreadman", "investagation", "magnifiengglass", "detective", "klawn", "choice", "mysteryreader", "circletime", "devenchi", "monalisa", "postoffice", "sandbox", "garden", "teacher", "joeyarea", "classroom", "snacktime", "morningmeeting", "scedwal", "readingtime", "clues", "curiosity"]
 
 
 directions = ["right", "left", "up", "down", "up right", "up left", "down right", "down left"]
