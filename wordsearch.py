@@ -5,10 +5,21 @@ boardSize = 30
 board = []
 
 
-words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights", "phoenixes" ]
+#words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotype", "nativeamerican", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights", "phoenixes" ]
 # words = [ "math", "addition", "subtraction", "multiplication", "division", "negative", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorization", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "double", "triple", "single", "quadruple" ]
 # words = [ "science", "chemist", "experiment", "mixture", "plant", "bird", "flight", "stem", "steam", "reaction", "molecule", "atom", "nuclear", "power", "mass", "light", "sound", "water", "waves", "tension", "refraction", "defraction" ]
 # words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
+# test
+#words = ["cat", "dog"]
+# humanities
+#words = [ "humanities", "humans", "ancestor", "cultures", "civilizations", "angelisland", "ellisisland", "stereotypes", "nativeamericans", "ohlone", "artifact", "immigration", "goldrush", "migration", "generation", "chinese", "mexican", "bracero", "depression", "segregation", "slavery", "civilrights" ]
+# math
+# words = ["math", "addition", "subtraction", "multiplication", "division", "negitive", "powers", "squareroots", "factors", "multiples", "prime", "primefactors", "primefactorazation", "lcm", "gcf", "patterns", "systematic", "operation", "numbers", "digits", "doubel", "triple", "single", "quadruple"]
+# science
+# words = ["chemist", "science", "experement", "mixture", "plant", "bird", "flight", "stem", "steam", "recation", "molecule", "adom", "neculer", "power", "mass", "light", "sound", "water", "waves, "tension", "refraction", "defraction", "garden"]
+# sel
+words = ["sel", "helpfull", "imessege", "trashcan", "cumunity", "exclusion", "inclusion", "feelings", "emotion", "emotionthermomometer", "lisen", "heart", "calm", "tone", "selfreflection", "talkitout", "intension", "ideas", "mind", "eyes", "descolate"]
+# swi
 # words = ["noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "sufix", "compoundword", "swi", "prefix", "root", "greek", "latin", "middleinglish", "oldinglish", "final", "meadel", "inital", "vowel"]
 # words = ["exersize", "running", "harder", "healthy", "diet", "food", "jumpropes", "sports", "football", "basketball", "socer", "hokey", "climbing", "skiing", "swiming", "mucels", "bones", "body", "pingpong", "tinnes"]
 # words = [ "nueva", "community", "forts", "mansion", "teachers", "collaboration", "leadership", "campus", "gracious", "spirit", "kind", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "elab", "sel", "swi", "quest", "stemfair", "steam", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn" ]
@@ -22,7 +33,6 @@ def main():
     initilizeBoard()
     printBoard()
     insertWords()
-    printBoard()
     replaceDot()
     printBoard()
 
@@ -44,12 +54,21 @@ def printBoard():
             if (board[row][column] == '.'):
                 print(" ", end="   ")
             else:
-                print(board[row][column], end="   ")
+                print(board[row][column], end="   ") 
         print()
         print()
     print()
+    printWords()
     print()
 
+def printWords():
+    count = 0
+    for word in words:
+        print("   ", word.ljust(20), end="")
+        count = count + 1
+        if count == 5:
+            print();
+            count = 0
 
 def insertWords():
     for word in words:
