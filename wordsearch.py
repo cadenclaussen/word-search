@@ -8,11 +8,11 @@ puzzles = [
     [ "sel", "lisa", "helpful", "imessage", "trashcan", "community", "exclusion", "inclusion", "bestself", "zentangle", "feelings", "emotion", "emotionalthemometer", "listen", "heart", "calm", "tone", "selfreflection", "talkitout", "intention", "mindfullness", "listenwitheyes", "deescalate", "cooloff", "stepup", "stepdown", "empathy" ],
     [ "swi", "rebecca", "noun", "verb", "adverb", "adjective", "handwriting", "story", "base", "suffix", "compoundword", "prefix", "root", "greek", "latin", "middleenglish", "oldenglish", "final", "medial", "initial", "vowel", "script", "grapheme", "phoneme", "syllable" ],
     [ "pe", "zubin", "exercise", "running", "pushharder", "healthy", "diet", "food", "jumprope", "sports", "football", "basketball", "soccer", "hockey", "climbing", "skiing", "swimming", "biking", "muscles", "bones", "body", "pingpong", "tennis", "persistence", "dodgeball", "thunderball", "ctf", "nutrition", "fiber", "lowsugar", "calories" ],
-    [ "nueva", "diane", "megan", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ],
     [ "scratch", "lora", "code", "integer", "string", "float", "if", "for", "while", "true", "false", "variable", "list", "listoflists", "array", "datastructure", "function", "parameters", "indentation", "python", "javascript", "arduino", "concatenate", "algorithm", "logic", "loops", "break", "continue", "pixel", "sprite", "input", "output" ],
     [ "art", "reenie", "paint", "abstract", "modern", "clay", "sculpture", "tone", "statue", "colors", "carve", "brush", "design", "greetingcards", "drawing", "sketching", "pictures", "photos" ],
     [ "music", "gemma", "note", "rhythm", "beat", "song", "tone", "scale", "chorus", "instrument", "piano", "violin", "bass", "guitar", "chello", "trumpet", "melody", "harmony", "tune", "tenor", "pitch" ],
     [ "laraine", "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ],
+    [ "nueva", "diane", "megan", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ],
 ]
 
 
@@ -23,7 +23,7 @@ directions = [ "right", "left", "up", "down", "up right", "up left", "down right
 
 def main():
     for words in puzzles:
-        initilizeBoard()
+        initializeBoard()
         insertWords(words)
         printHeader(words[0])
         replaceDot()
@@ -45,7 +45,7 @@ def printFooter():
     print("```")
 
 
-def initilizeBoard():
+def initializeBoard():
     global board
     board = []
     for row in range(boardSize):
