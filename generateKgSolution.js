@@ -1,7 +1,9 @@
-'use strict';
+!'use strict';
 
-let words = [ 'laraine', 'kindergarten', 'gingerbreadman', 'investigation', 'magnifyingglass', 'flight', 'detective', 'klawn', 'adddetail', 'doyourbestwork', 'choice', 'mysteryreader', 'circletime', 'davinci', 'monalisa', 'postoffice', 'postmaster', 'sandbox', 'garden', 'joeyarea', 'snacktime', 'morningmeeting', 'schedule', 'readingtime', 'clues', 'curiosity', 'resilience', 'pioneer' ];
-let puzzle = [
+var directions = [ 'north', 'northeast', 'east', 'southeast', 'south', 'southwest', 'west', 'northwest' ];
+var words = [ 'laraine', 'kindergarten', 'gingerbreadman', 'investigation', 'magnifyingglass', 'flight', 'detective', 'klawn', 'adddetail', 'doyourbestwork', 'choice', 'mysteryreader', 'circletime', 'davinci', 'monalisa', 'postoffice', 'postmaster', 'sandbox', 'garden', 'joeyarea', 'snacktime', 'morningmeeting', 'schedule', 'readingtime', 'clues', 'curiosity', 'resilience', 'pioneer' ];
+
+var puzzle = [
     [ 'c', 'd', 'v', 'i', 'w', 'l', 'v', 'j', 'b', 'w', 'p', 'd', 'c', 'g', 'x', 'g', 'n', 'i', 't', 'e', 'e', 'm', 'g', 'n', 'i', 'n', 'r', 'o', 'm', 'w' ],
     [ 'i', 'a', 'y', 'f', 'y', 'v', 'f', 't', 'q', 'f', 'w', 'y', 'u', 'e', 'm', 'i', 'n', 'a', 'c', 'u', 'i', 'v', 's', 'h', 'n', 'j', 's', 'l', 'y', 'p' ],
     [ 'f', 'v', 'v', 'l', 'u', 'i', 'x', 'q', 'r', 'd', 'e', 'k', 'r', 's', 'r', 'j', 't', 'a', 's', 'p', 'p', 'g', 'i', 'l', 'w', 'h', 'm', 'o', 'z', 'o' ],
@@ -37,97 +39,70 @@ let puzzle = [
 
 main(process.argv)
 
+
 function main(args) {
     for (let word of words) {
-        let coordinates = findWord(word);
-        console.log(word + ' found at: ' + coordinates[0] + '/' + coordinates[1]);
+        let location = findWord(word);
+        if (!location) {
+            console.log('The word ' + word + ' is not in the puzzle.');
+        } else {
+            console.log('The word ' + word + ' is at row: ' + (location[0] + 1) + ', column ' + (location[1] + 1) + ', and direction ' + location[2]);
+        }
     }
 }
 
 
 function findWord(word) {
-
-    console.log('Searching for: ' + word);
-
     for (let row = 0; row < 30; row++) {
         for (let column = 0; column < 30; column++) {
-
-            if (search('up', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('up right', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('right', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('down right', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('down', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('down left', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('left', word, row, column)) {
-                return [ row, column ];
-            }
-
-            if (search('up left', word, row, column)) {
-                return [ row, column ];
+            for (let direction of directions) {
+                if (search(word, direction, row, column)) {
+                    return [ row, column, direction ];
+                }
             }
         }
     }
+
+    return null;
 }
 
 
-function search(direction, word, row, column) {
+function search(word, direction, row, column) {
     for (let ch of word) {
 
-        if (puzzle[row][column] !== ch) {
+        if (row < 0 || column < 0 || row >= 30 || column >= 30 || puzzle[row][column] !== ch) {
             return false;
         }
 
         switch (direction) {
-        case 'up':
+        case 'north':
             row--;
             break;
-        case 'up right':
+        case 'northeast':
             row--;
             column++;
             break;
-        case 'right':
+        case 'east':
             column++;
             break;
-`        case 'down right':
+        case 'southeast':
             row++;
             column++;
             break;
-        case 'down':
+        case 'south':
             row++;
             break;
-        case 'down left':
+        case 'southwest':
             row++;
             column--;
             break;
-        case 'left':
+        case 'west':
             column--;
             break;
-        case 'up left':
+        case 'northwest':
             row--;
             column--;
             break;
-        }
-
-        if (row < 0 || column < 0 || row >= 30 || column >= 30) {
-            return false;
         }
     }
 
