@@ -1,4 +1,5 @@
 import random
+import sys
 
 
 puzzles = [
@@ -13,17 +14,22 @@ puzzles = [
     [ "music", "gemma", "note", "rhythm", "beat", "song", "tone", "scale", "chorus", "instrument", "piano", "violin", "bass", "guitar", "chello", "trumpet", "melody", "harmony", "tune", "tenor", "pitch" ],
     [ "laraine", "kindergarten", "gingerbreadman", "investigation", "magnifyingglass", "flight", "detective", "klawn", "adddetail", "doyourbestwork", "choice", "mysteryreader", "circletime", "davinci", "monalisa", "postoffice", "postmaster", "sandbox", "garden", "joeyarea", "snacktime", "morningmeeting", "schedule", "readingtime", "clues", "curiosity", "resilience", "pioneer" ],
     [ "nueva", "diane", "megan", "community", "forts", "mansion", "teachers", "administration", "collaboration", "leadership", "campus", "gracious", "spirit", "kindness", "thankful", "caring", "innovate", "inclusion", "humor", "wisdom", "ilab", "ecenter", "sel", "swi", "quest", "stemfair", "steamday", "ilc", "garden", "trips", "auction", "klawn", "mavericks", "balletlawn", "library", "upperschool", "lowerschool", "differentiation", "cafe", "passionate", "citizenship", "stewardship", "asynchronous", "litclub", "bookgroups", "pathofthehero", "farmersmarket", "imessage", "stepupday", "celebrate" ],
-    [ "zelda", "mastersword", "hylainshield", "ancientbladesaw", "fireblightganon", "windblightganon", "waterblightganon", "thunderblgithganon", "vahmedoh", "vahruta", "vahrudania", "vahnaboris", "bokoblin", "moblin", "lizafos", "chuchu", "lynel", "hinox", "ganon", "gaurdain", "akala", "greatplatue", "shrine", "ancientarmor", "ancientbow", "ancientshortsword", "anceintshield" ],
-    [ "minecraft", "iron", "gold", "diamond", "coal", "wood", "leather", "chest", "craftingtabel", "furnace", "enchantingtabel", "fence", "sheep", "wool", "cow", "pig", "dye", "dirt", "glass", "planks", "mobs", "coblestone", "slime", "spider", "skeloton", "enderman", "creeper", "endermite", "zombie", "desertzombie", "pickaxe", "neither", "end" ],
-    [ "twentythridy", "caden", "maddie", "griffen", "mari", "kai", "siena", "avi", "nikhil", "ishaan", "matthew", "anaya", "ellery", "natalie", "mayak", "arya", "maren", "audrey", "mayal", "sophia", "felix", "zoe", "ryder", "jt", "emily", "theo", "aoife", "nico", "elbert", "colton", "neel", "kate", "ishan", "taiye", "nyxerre", "chloes", "iliya", "jack", "katherine", "owen", "chloew", "sylvie", "sam", "damon", "samantha", "liane" ]
+    [ "zelda", "link", "hyrule", "breathofthewild", "championsballad", "hebra", "garudo", "tabantha", "divinebeast", "lostwoods", "amiibo", "faron", "hyrulecastle", "flameblade", "frostblade", "twilightbow", "sheikahslate", "shrine", "stable", "elixir", "champions", "parry", "durian", "mastersword", "hylianshield", "ancientbladesaw", "fireblight", "windblight", "waterblight", "thunderblight", "vahmedoh", "vahruta", "vahrudania", "vahnaboris", "bokoblin", "moblin", "lizafos", "chuchu", "lynel", "hinox", "ganon", "guardian", "akala", "greatplateau", "ancientarmor", "ancientbow", "ancientshortsword", "ancientshield" ],
+    [ "minecraft", "iron", "gold", "diamond", "coal", "wood", "leather", "chest", "craftingtable", "furnace", "enchantingtable", "fence", "sheep", "wool", "cow", "pig", "dye", "dirt", "glass", "planks", "mobs", "coblestone", "slime", "spider", "skeleton", "enderman", "creeper", "endermite", "zombie", "desertzombie", "pickaxe", "nether", "end", "redstone" ],
+    [ "twentythirty", "caden", "maddie", "griffen", "mari", "kai", "siena", "avi", "nikhil", "ishaan", "matthew", "anaya", "ellery", "natalie", "mayak", "arya", "maren", "audrey", "mayal", "sophia", "felix", "zoe", "ryder", "jt", "emily", "theo", "aoife", "nico", "elbert", "colton", "neel", "kate", "ishan", "taiye", "nyxerre", "chloes", "iliya", "jack", "katherine", "owen", "chloew", "sylvie", "sam", "damon", "samantha", "liane" ]
 ]
+
 
 boardSize = 30
 board = []
 directions = [ "right", "left", "up", "down", "up right", "up left", "down right", "down left" ]
 
 
+# Regeneration:
+# $ python3 wordsearch.py > README.md
+# $ python3 wordsearch.py solution > SOLUTION.md
 def main():
+
     for words in puzzles:
         initializeBoard()
         insertWords(words)
